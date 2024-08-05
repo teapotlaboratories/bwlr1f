@@ -4737,8 +4737,8 @@
 		(uuid "b4f93c24-1319-4977-8e2b-a9eb0d79e819")
 	)
 	(no_connect
-		(at 82.55 127)
-		(uuid "b58bd7e8-7e15-4ed6-9955-82d14c25582a")
+		(at 82.55 99.06)
+		(uuid "c3b94ad4-9a44-4e8a-9eb7-18843a42b052")
 	)
 	(no_connect
 		(at 82.55 129.54)
@@ -5089,16 +5089,6 @@
 			(type default)
 		)
 		(uuid "1f288fd9-dacd-492d-b758-983e9229434b")
-	)
-	(wire
-		(pts
-			(xy 72.39 99.06) (xy 82.55 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fff41a1-a8cc-4b8c-874e-683010aba64d")
 	)
 	(wire
 		(pts
@@ -6249,6 +6239,16 @@
 			(type default)
 		)
 		(uuid "96428e43-6903-4351-9632-5583099875e0")
+	)
+	(wire
+		(pts
+			(xy 72.39 127) (xy 82.55 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97f723a6-ee09-46b6-96e7-683da5775110")
 	)
 	(wire
 		(pts
@@ -7882,7 +7882,7 @@
 		(uuid "e9d3cc50-26d2-4d85-89d6-8abcb149657a")
 	)
 	(label "RTC_WKUP"
-		(at 72.39 99.06 0)
+		(at 72.39 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
