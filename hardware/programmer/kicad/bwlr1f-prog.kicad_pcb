@@ -8858,7 +8858,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "224a8622-bbd3-4c7e-bbe3-b1c4970d0af4")
 		)
-		(model "${KIPRJMOD}/library/TXS0102DCUR.step"
+		(model "${KIPRJMOD}/library/3dmodels/TXS0102DCUR.step"
 			(offset
 				(xyz 0 0 0)
 			)
