@@ -1,0 +1,45 @@
+Thickness = 1.6mm
+
+--------------------
+
+Size: 61.2325 x 26.13mm
+Number of layers: 4
+Material: TG150-160 FR-4
+
+Min. track/spacing: 5/5mil
+Min. hole size: 0.3mm
+
+Solder mask: Red
+Silkscreen: White
+
+--------------------
+
+Impedance control: Yes
+
+Relative Dielectric Constant: 4.29
+Track Width : 0.21mm
+Gap Width : 0.15mm
+Dielectric Thickness : 0.11mm
+
+Effective Dielectric Constant: 3.188
+Characteristic Impedance: 50.15ohm
+
+--------------------
+
+SUGGESTED STACK-UP
+
+L1	Copper		1oz					bwlr1f-F_Cu.gbr
+
+	Prepreg		###Please Fill
+
+L2	Copper		1oz					bwlr1f-In1_Cu.gbr
+
+	Core		###Please Fill
+
+L3	Copper		1oz					bwlr1f-In2_Cu.gbr
+
+	Prepreg		###Please Fill
+
+L4	Copper		1oz					bwlr1f-B_Cu.gbr
+
+--------------------
