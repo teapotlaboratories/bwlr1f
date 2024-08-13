@@ -247,7 +247,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -629,7 +629,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1011,7 +1011,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1302,7 +1302,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1315,7 +1315,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1334,6 +1334,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "706dd766-1254-49c7-b006-60e217a24a08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05e5dcb2-9e47-4750-bf60-38676c116853")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81c7e86d-281c-4384-a281-4f6e9adc6465")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C1591"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02b3fa08-d521-4851-8994-9a944e3e9cc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acf24683-fd1d-4857-a58f-4ce8e33c09ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03cb3ad8-4cd1-41c2-b608-3d4b257da2ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4386a09f-c0bd-410b-8536-273ff829bccb")
 			(effects
 				(font
 					(size 1 1)
@@ -1528,7 +1606,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2405311753_XKB-Connection-U262-161N-4BVC11_C319148.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1540,7 +1618,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3A USB 3.1 1 260℃ Horizontal attachment 16P Female -40℃~+85℃ Gold Copper Alloy Type-C SMD USB Connectors ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1571,6 +1649,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4fde27ea-4a6a-4ac0-980d-bfb38dc2c62b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e15fabbc-96db-4058-bf07-08cca1545f3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/USB-Connectors_XKB-Connectivity-U262-161N-4BVC11_C319148.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6c90aa8-459f-4866-9388-234931ed0a83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C319148"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bc92c08-1195-46cf-9889-851c1565cdd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "U262-161N-4BVC11 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1968cb22-86ff-4d76-9854-b68877f16cb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f91ef63b-fb94-42fc-9c4a-b2aee8fc5f0c")
 			(effects
 				(font
 					(size 1 1)
@@ -1980,7 +2123,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/760/TOSL_S_A0010556302_1-2575005.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810010324_Torex-Semicon-XC6220B331MR-G_C86534.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1993,7 +2136,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50dB@(1kHz) 1A Fixed 3.3V Positive electrode 6V SOT-25-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2025,6 +2168,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f97d1794-0473-4359-a965-9988ba5c96cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26c3e521-70a6-41f4-92e8-3f4d767cf6db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Torex-Semicon-XC6220B331MR-G_C86534.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19657f4c-86c3-41db-880e-f1a3f911ad6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C86534"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe41e49d-f60f-486d-b36b-31641e4b5213")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "XC6220B331MR-G "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc572f7a-1105-440f-9b58-d391ac5a9d36")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6bbb473-d8e1-45e4-8e02-a880d4500c75")
 			(effects
 				(font
 					(size 1 1)
@@ -2294,7 +2502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2307,7 +2515,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2320,7 +2528,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2352,6 +2560,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e5b6c603-4a5d-444c-83c6-e86cde2fc527")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62148cf5-84ce-4fe9-a2b5-83c60b41ac12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ed72f34-e707-4ac1-a34f-b16d9cbc5a79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C1525"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "892896fc-1bbc-4722-aa60-1d140926dfe1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa489814-a079-4bd9-a0fc-21937ab29f76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c667511-7626-43f2-a359-83a60e1ec003")
 			(effects
 				(font
 					(size 1 1)
@@ -2638,7 +2911,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2929,7 +3202,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2942,7 +3215,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2951,6 +3224,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f06f816f-3d39-4366-870e-b1b602e7d69a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5da7b14-1c05-4106-a443-930055c86e94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23ecc1ff-a460-4c0d-9eac-70cead7155cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcb0a46f-0089-40ff-9d3b-af105c920fff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04a8762e-c898-4fbd-b2d6-54707a00d48c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb192416-3e25-4dd7-9151-1225ad356f9b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3135,7 +3486,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3517,7 +3868,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3808,7 +4159,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3821,7 +4172,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3830,6 +4181,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1be27b45-413c-41a4-90ae-a125183a40f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af79bc0a-985d-4570-90c4-5bdebc673f42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C1525"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98e5ae21-7579-4744-93d8-617566bfeb7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63ced327-ac35-4c8c-866a-f28dea31436d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecab8c1c-7eef-486c-87ca-07e0e5a1599b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baf086ec-da7e-48d6-abc7-54eecc1425fb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4022,7 +4451,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4035,7 +4464,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4044,6 +4473,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "802dfc41-a381-436e-9d22-f49f1bac745d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e51d88bd-617d-4616-9019-a2ff108def70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bc2a641-d79e-4727-9f09-f21b871d1d06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35b33c29-65c3-46af-9972-cb8aa1d77a62")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9c56041-fd7c-402a-93cf-03e6cbfe5e69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3806ee3-35a8-4edf-860b-16d546af55cb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5214,7 +5721,7 @@
 			(uuid "abb1039d-faa6-4630-ac15-ea4b7c5d1bb9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.77 8.89 360)
+			(at 2.77 8.89 0)
 			(layer "F.Fab")
 			(uuid "894f303e-700d-4970-aba3-68abd7579624")
 			(effects
@@ -5366,7 +5873,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mpja.com/download/35227cpdata.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403131141_WCH-Jiangsu-Qin-Heng-CH340E_C99652.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5379,7 +5886,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2Mbps Transceiver USB 2.0 MSOP-10 USB Converters ROHS "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5411,6 +5918,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "52b3f93e-6095-415f-bce2-7cd20a145b2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf6d867f-a711-47cb-99ff-9b032dca647d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340E_C99652.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f61e1740-a1a2-4795-86bd-ce28a581b404")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C99652"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f3e7b83-a8ef-423d-9440-ed47ec1d9547")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CH340E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "561d019a-094c-4749-a04b-9507d77a2d73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4fe2346-98de-4533-b933-391648e60e03")
 			(effects
 				(font
 					(size 1 1)
@@ -5730,7 +6302,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5743,7 +6315,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" "DNP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5752,6 +6324,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3d19e13-1173-44b0-af96-1956b46c36c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da69ced3-074c-46bb-ab0f-fc3742560a6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffafd487-0ebc-45ae-b06f-d7794aa4e7d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93532e0f-5cc3-410a-924e-5b6acafcbdf4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bea51e9-a427-4ce8-a4e7-63a27a1d8ff9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6475cb4c-15fb-46b6-9fd3-9b7af9446b34")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5845,7 +6495,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5858,7 +6508,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5867,6 +6517,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58f9ab04-abce-4e3d-804e-7ff8753f1d7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "645a37d1-6c33-4a10-a851-89f4edad2707")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f1dbdae-8c71-4dc3-b339-622e865f8131")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2d4e4d3-8e85-4c93-ad39-faf26f7d0210")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39332d95-7a92-4680-9305-a6c4d984dcbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "136934b5-db75-4d49-987b-4edc8f6f7e83")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5960,7 +6688,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5973,7 +6701,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPST SMD NO 50mA 100MΩ 100000 Times 12V 160gf@±50gf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6005,6 +6733,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f9f41a2e-8118-4f75-8ceb-944a874a7a43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59a95064-56cc-4447-a1f4-a0e005039f36")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Tactile-Switches_E-Switch-TL3342F160QG_C2886898.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ded7732b-a9e4-4e7b-bb2a-99a796183bf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C2886898 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a6fabeb-d943-4bb3-92a5-f5213b0c4308")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TL3342F160QG"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a9960b2-b19b-4170-ab43-6eb71ed412cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33de1346-05af-4736-8594-dc00629c6e8b")
 			(effects
 				(font
 					(size 1 1)
@@ -6568,7 +7361,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6581,7 +7374,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6600,6 +7393,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e1088ac-cb63-436b-aa9d-0084c53da442")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ead16602-91ad-4cfd-aa99-fc3a7a75b321")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba21248c-ad36-47da-92c6-ccccb01b1987")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C25905"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a6a6d7d-ba56-4939-b07b-a1c43b03c348")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bb31208-52ac-4df8-b1bc-eae3b719ecab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF5101TCE"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78c1f4a2-3082-471e-a4f0-58a7085e371f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c0a161f-907f-4acc-a065-36e229500972")
 			(effects
 				(font
 					(size 1 1)
@@ -6795,7 +7666,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6808,7 +7679,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6817,6 +7688,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78512533-f94e-4d4e-95d0-251b33c1abd0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7df26e0-bc58-4681-9fe8-de517eb5a1bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d941a2f8-a328-4cee-bf24-5e9c9d67985a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6c1b6f7-046d-4911-a0ab-884c5a4eac04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9494ab5-7616-4bb4-b1c0-9adfc4d64d04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10efe957-0616-4012-9068-a59da0be5b1b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7267,7 +8216,7 @@
 			(uuid "3ecf2fd0-96b1-486d-9f98-37937416139b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.77 1.27 360)
+			(at 2.77 1.27 0)
 			(layer "F.Fab")
 			(uuid "8b1426b3-71c7-426b-b9f8-593b40156170")
 			(effects
@@ -7444,7 +8393,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7735,7 +8684,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809192323_STMicroelectronics-USBLC6-2P6_C15999.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7748,7 +8697,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "5A 17V 6V Unidirectional 5.25V SOT-666-6 ESD and Surge Protection (TVS/ESD) ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7780,6 +8729,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "da0e8ea6-255b-4b76-9f5c-58ecee562590")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7247c56c-61a5-4491-9d3e-9e3c38e98078")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/ESD-Protection-Devices_STMicroelectronics-USBLC6-2P6_C15999.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a34dba3a-330d-43b3-919d-1350345227c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C15999"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3978153b-72e6-4fe5-8fdf-959f7046848e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "USBLC6-2P6 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9c0e5f7-0e84-4ec5-8fc2-20168c9e8b58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34d88f32-ccff-4481-a4c9-ccd41943fdf3")
 			(effects
 				(font
 					(size 1 1)
@@ -8049,7 +9063,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8062,7 +9076,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8071,6 +9085,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03e7dd22-e5fb-4b2f-adbc-ff2e548042d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "868c59a6-e9d1-43ec-b730-70e4a5e2b422")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8d13a4b-be76-43bf-8720-da45dd65ce3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e440851e-19be-4917-b5aa-b8e02ac882da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "987a2b98-ed43-4c77-9d31-c6281bcddaa8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5e87e01-a705-4aab-9992-2e2461d22ce5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8521,7 +9613,7 @@
 			(uuid "814f122c-76f6-49b4-bde6-0d3d2b1d0b49")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.77 1.27 360)
+			(at 2.77 1.27 0)
 			(layer "F.Fab")
 			(uuid "6e9a957c-c13d-4449-97a3-244605bd6b71")
 			(effects
@@ -8607,7 +9699,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8620,7 +9712,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8639,6 +9731,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c01a9183-83cc-4ad2-8214-19d2c8d6c770")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8a0fa54-e305-404e-8daf-9c98679de854")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f5587ef-f8db-4c5d-8ee8-9bf2da7ecabc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C25905"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95ed753f-768d-4904-883a-b440c5a33a7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e39373bc-2780-4bed-8614-95b8944fa318")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF5101TCE"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f8afd72-295b-44af-86bd-d50013ecda00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de5b7f26-99ba-4d91-90ed-6f201d3b407e")
 			(effects
 				(font
 					(size 1 1)
@@ -8834,7 +10004,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-CC0402KRX7R9BB103_C60133.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8847,7 +10017,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8892,6 +10062,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "825bb230-2dc0-4388-ae5c-f341793a0c4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40138ab3-6d54-4cab-8174-ddfb0fa63439")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R9BB103_C60133.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "665e4b52-23d9-4585-ba68-da9708d10485")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C60133"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ee24301-f457-4b8c-969e-bf8372132517")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0402KRX7R9BB103"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c60309b-e3fc-4c5a-ae9c-7a18b2f7c563")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "533239c5-de6f-457c-a472-e5449116e6c2")
 			(effects
 				(font
 					(size 1 1)
@@ -9063,7 +10298,7 @@
 				)
 			)
 		)
-		(property "Value" "0.75A"
+		(property "Value" "SMD0805P075TF"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "7ab23dd4-45a9-4541-aa75-79282d2730a1")
@@ -9087,7 +10322,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403081022_RUILON-Shenzhen-Ruilongyuan-Elec-SMD0805P075TF_C20979.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9100,7 +10335,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6V 750mA 40A 1.5A 0805 Resettable Fuses ROHS"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9113,7 +10348,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "RUILON"
+		(property "Manufacturer" "RUILON(Shenzhen Ruilongyuan Elec)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9145,6 +10380,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "deb964f9-ec76-4bdd-b5de-59b6ac49ea1a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87509c89-9bac-4c52-a15d-c9e2f308d554")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Resettable-Fuses_RUILON-Shenzhen-Ruilongyuan-Elec-SMD0805P075TF_C20979.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea1a2134-4870-470e-8d2d-42fcf5f192b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C20979"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d54bd3ac-0421-4ef1-97d5-55181e9ada89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SMD0805P075TF"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4f663ed-84c4-4ef0-985e-54b36dd38696")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "280a6df0-f8b6-4cce-a88b-631c0e4fbe23")
 			(effects
 				(font
 					(size 1 1)
@@ -9340,7 +10640,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9353,7 +10653,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9372,6 +10672,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b654eb5c-cbc6-48cf-90ea-da0a83e76d16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "719046a0-0fc6-4814-918a-bea3ef7d0e0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "140e753b-f7b9-4f5d-aeb8-50e76b6ad639")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e335b51-6235-4c03-8458-2e644e6edb8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "836b369c-4d25-4f0e-90be-f06ea11d2260")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0603WAF1002T5E"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71256999-cf39-4902-8e6f-f5c531e73333")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1c6d5ad-577f-4c50-97d4-7e2b6617b280")
 			(effects
 				(font
 					(size 1 1)
@@ -9567,7 +10945,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9580,7 +10958,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9599,6 +10977,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a38b9f43-b55b-4f6f-b64b-ba6514a2dee1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4b586fd-9cf3-43e2-8ef7-117ccc47ddf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ba14248-12e0-43c7-ab68-0e6bb64c22a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C17024"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bace006-86e2-4488-9cd1-79017bfd4b10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cf09b34-0f07-40be-a2c4-4e6ecfb309c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A106KPFNNNE"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecc8a8cc-e89c-46b4-a99e-4ba8ebf8b1b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3614b06d-0ee3-4b4e-a0a1-8d0ddc845250")
 			(effects
 				(font
 					(size 1 1)
@@ -9759,7 +11215,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6e23636c-12cb-487d-9c17-48ab462828dc")
@@ -9771,7 +11227,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "a47c5679-7017-4950-9093-284deac2dfed")
 			(effects
@@ -9794,7 +11250,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9807,7 +11263,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9816,6 +11272,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f30c40df-2c66-44d1-aee4-99ba57f08acb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50c88bfa-c81e-4eda-98aa-b74380a0c6c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d2ef531-4f14-4209-9f56-e18a8a0d4a14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b4b531c-d082-4b2c-bd20-d60c7debbf43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8df7c2e0-20ef-4219-a8dd-78f0125cace4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4216fde-f667-4aa1-b0f2-b5ddee6c14f4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9926,7 +11460,7 @@
 			(uuid "285007cd-3829-45b0-b838-943c12868f91")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7ff212e7-bea4-44fd-83b1-ec29534b3a0c")
 			(effects
@@ -10099,7 +11633,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10390,7 +11924,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10403,7 +11937,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10422,6 +11956,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a030ade7-31de-4c24-a295-21dce43c70c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4525d396-3abd-4772-9042-8feec2083863")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93e0797e-82b1-40f2-be8e-67b8e0cdea13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C17024"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df63c19e-0ddb-4446-98b6-f39232aa9f2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d087e646-f81e-40b4-a34b-686bd54a80fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A106KPFNNNE"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2948249-b247-43be-89ca-1646544fd2e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdefbbd3-6322-46aa-8039-87c2c58fdcbe")
 			(effects
 				(font
 					(size 1 1)
@@ -10614,7 +12226,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810292010_Texas-Instruments-TXS0102DCUR_C53434.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10626,7 +12238,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.3V~5.5V 1 2 1.65V~3.6V 24Mbps VSSOP-8 Translators, Level Shifters ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10748,6 +12360,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45458422-16ab-4018-8892-8e9df442da6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e81ea244-86f1-42ba-88aa-e0faee5952c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Translators-Level-Shifters_Texas-Instruments-TXS0102DCUR_C53434.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9b6e784-f1e2-403a-a571-eb529611cf67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C53434"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ff98335-4d5d-4245-b937-06f2ed977f60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" " Texas Instruments"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccc46a50-212d-458d-bdd1-aaed6dbd16a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TXS0102DCUR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7215293e-2c5f-4d87-af9b-6c75bcdd232d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0de1aac-22d0-49fd-9fed-4656638d926b")
 			(effects
 				(font
 					(size 1 1)
@@ -11035,7 +12725,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11048,7 +12738,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPST SMD NO 50mA 100MΩ 100000 Times 12V 160gf@±50gf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11080,6 +12770,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a90ef017-538d-45a4-94f9-4aba4c7f513e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ef84ce2-dc9d-4b32-b8cf-d325bc69cb8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Tactile-Switches_E-Switch-TL3342F160QG_C2886898.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36bc79d6-a6a8-4aa8-8cdf-915aa6c37a73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C2886898 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3185da9-89ea-4cdd-b3e6-356cc603d370")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TL3342F160QG"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcedcace-2140-4f8d-9c2e-0806fac8fd07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6e95b0a-0c7f-4968-be34-33e3f6b3421a")
 			(effects
 				(font
 					(size 1 1)
@@ -11643,7 +13398,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_TDK-MMZ1608B601CTAH0_C97120.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11656,7 +13411,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "400mΩ ±25% 600Ω@100MHz 0603 Ferrite Beads ROHS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11708,7 +13463,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "MMZ1608B601CTAH0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11721,7 +13476,7 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11734,7 +13489,7 @@
 				)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "C97120"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11747,12 +13502,25 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Ferrite-Beads_TDK-MMZ1608B601CTAH0_C97120.html"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "669f5ce0-4087-4e0b-9911-fe2436932da4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d23b27e2-7f69-43fe-b0fe-ab28c2995809")
 			(effects
 				(font
 					(size 1 1)
@@ -11948,7 +13716,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11961,7 +13729,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11980,6 +13748,84 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e4b2b47e-fdfc-45a7-99de-bd5c07c64505")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a1cc4fc-f1bf-4b4a-8ec0-bcc1f962d613")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ec917f5-4e3f-4def-80b0-64923c5e9e04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C25905"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7c16277-20e8-4ae4-9e81-effb19d1d4a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab0c12b4-8764-4515-9d6e-2cc3e995f143")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF5101TCE"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4dc8d75-fe1c-44f8-9855-428461a558da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c63be481-b500-4b5f-a6c3-155daef08a99")
 			(effects
 				(font
 					(size 1 1)
@@ -12165,7 +14011,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cb0af267-0cb4-451f-b959-bf8e9427838a")
@@ -12177,8 +14023,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3848dba5-8ed1-4718-8f46-6255c65937a8")
@@ -12190,14 +14036,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "df6a7562-d157-4398-bf3e-3b70fe6ede29")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b097205c-1156-4cf4-b2a3-a845a5c61650")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5bc6994f-9982-49f9-8a04-27086c98f89d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d67a7c3a-42f4-48a9-8567-3949e9c702e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8f99c453-a37d-4707-bb4c-b28e7f911cc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "90fd6fa4-5164-4637-b206-4df67e93e510")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1874cf1b-5247-492a-a670-8b2590a3b2dc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12276,7 +14206,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b30880db-cd9d-48a6-a809-4eeb2895ddc2")
@@ -12288,8 +14218,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9b17a744-a26f-4fb2-8006-420489dc7320")
@@ -12301,14 +14231,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7b6dc4ed-ee99-4d70-bf0a-417ecfe4f587")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c3e5e747-1e2a-4635-bc03-7124756b99b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "92bc6e49-54d9-448c-817e-0902b0f71af5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16e20643-7ffe-41b0-814a-9a53c7dd09ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9526f7a9-df2b-49fe-b81c-5f5e1d4ddf0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d7b3c246-c917-42b5-9094-eee1a6ab52e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b51dc2a9-f840-45e6-8907-a576753321b1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12387,7 +14401,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d2dcb7cb-763d-4407-b6c6-80af8b3559b1")
@@ -12399,8 +14413,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "71cb86c5-31b0-452a-8da9-6f5cb1abf175")
@@ -12412,14 +14426,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c29e797f-b65c-4986-b90c-55feabac202a")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8b4945eb-02d4-4371-81c1-9c807f932813")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6f43d4b0-98f5-4729-9110-848acb524c2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "50892714-297c-4258-ac45-bd4eeb397189")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "855ebb22-f54e-4eed-88e8-ee6cc6298191")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6deb374c-852c-434c-95ec-43caf50b92c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "607dc706-c294-4240-a656-c74ef8015604")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12498,7 +14596,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4274e7a3-890d-4ac2-905f-d6c43595791a")
@@ -12510,8 +14608,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "76655ee6-41bc-4fb5-9cce-2f7f537e4adf")
@@ -12523,14 +14621,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e6f57d09-71bf-4383-9859-22941b6df296")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d7e7055c-0d87-4139-acac-e56fc2937133")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c7deada2-7c1c-4927-98b9-da79f00b0c84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "77278802-8e37-436e-994a-db172f190afc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b3eed08a-4582-402f-bb49-69a022035153")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ea042d3-f210-495c-89dd-127090ff9d1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6f3196f3-1772-4870-a30e-3c19c21dd3b9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12609,7 +14791,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c80dc438-48d0-495c-8706-9e7325106195")
@@ -12621,8 +14803,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b946634f-d58d-497f-b6ea-d42e0ae85576")
@@ -12634,14 +14816,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "dd11ce1d-c47c-4f29-9f0a-5c48e0473ca4")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4eabc589-1a5b-4e04-bf86-8473bd305981")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5489ee6b-8670-4953-8240-fc5757c0dd32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "923bcf10-ecc8-4627-984e-85090e91df51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7efee8bd-b704-4dcd-acea-deac7b7d01f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56f098e3-198c-4ce2-913c-676571c45d97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "750c2f3e-b303-435b-9606-a5d15616a276")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12720,7 +14986,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "88b55457-4e05-40fb-91d4-f8f0e02b7705")
@@ -12732,8 +14998,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "611d66aa-00c6-4380-949d-b548183ab8ad")
@@ -12745,14 +15011,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3bc6674d-1cff-48cf-903d-6b2571bb4c97")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07a72400-6aca-40c2-a892-b2743053c4b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ef0d09e2-04c0-45ac-96a9-0a108fab9675")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d7df6da4-9d48-4cb6-b274-091e1cd6db4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be8810f0-f4df-4460-9d9f-e069edd0a26c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7134f20d-508d-41e8-b812-5df284be1b20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1fb942bb-2443-4e7b-be01-b0b6aae57e46")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12831,7 +15181,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e35e4636-51bf-4019-80c4-f0b0d9cc9605")
@@ -12843,8 +15193,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f8fe7259-1ea4-4a2f-916b-78aa273ba5e3")
@@ -12856,14 +15206,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "adcdaf61-2463-4af9-a8a4-2fb0096579eb")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7e262ff2-0437-45c5-b29f-ed08b3abd32f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68cc0317-1167-4a1d-a247-45d10be04f68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d9f14ead-3666-4afc-89d5-6e7853ccde55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e9afd21-e4db-4858-b1cf-6c1cc3076188")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "96ae9227-6f89-4c53-9a4f-e43b04057060")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63153399-46c4-4a1a-bd69-2944d46cdf7f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12942,7 +15376,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "927267ab-ed26-4a06-ab90-3576550ede0d")
@@ -12954,8 +15388,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f2498a6d-da77-4706-bbf9-b205792a668f")
@@ -12967,14 +15401,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0d3a4cce-fcac-45bb-a436-14347a8a1f40")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "52b00830-0592-4077-a0bc-56bdd38f0527")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c654ecb5-8245-4735-b96c-df29aa00e79c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b66df9c9-c550-413c-8f6c-c50eee8db81c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f5090477-eb63-4e80-9a93-5fc41b287118")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fe78a9b7-fb36-463e-989b-02aa51d99ccc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "86b9abaf-2167-4a20-9b16-80c389f5ceab")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -13341,7 +15859,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fff75ebc-66ba-4f96-8fbc-fd69939ee54b")
@@ -13353,8 +15871,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 360)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "febb889a-8c41-4afa-be92-fc5700908e6b")
@@ -13366,14 +15884,98 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
-			(at 0 0 360)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "90878489-267c-4221-bbec-af8999e10b87")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9931b410-e431-4ed4-8926-8c97fc34ebc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c0a3eec5-5f61-4e0e-85c7-5994373260df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "30435356-fa57-4292-af95-4f96e4569915")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1abc5b1b-b143-41f7-9292-05346a75891b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4a4788e-5a82-48a4-a66e-e344c15ff895")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "THT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8734c552-3e8e-41c5-b272-86949b9ab379")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)

@@ -4278,34 +4278,40 @@
 		)
 	)
 	(junction
-		(at 130.81 226.06)
+		(at 256.54 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0cd13af0-66fb-499f-8ab3-dbb83d295990")
+		(uuid "0d168956-8730-419f-a4c2-42b03d1046b9")
 	)
 	(junction
-		(at 124.46 228.6)
+		(at 218.44 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1e13aea9-49a9-4259-ae63-fb42a636c88d")
+		(uuid "1a69fe5a-c592-4627-a5d7-0a3904e73162")
 	)
 	(junction
-		(at 81.28 137.16)
+		(at 77.47 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23e850ed-079d-488a-9cca-e530b84a5f67")
 	)
 	(junction
-		(at 91.44 139.7)
+		(at 87.63 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2bdec83e-dbd4-4d88-a1fd-c3dc025c4357")
 	)
 	(junction
-		(at 156.21 215.9)
+		(at 237.49 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "38b2584e-9ff0-4ed0-8ba8-306c626e868d")
+		(uuid "2eec967e-3b09-4e78-a572-7fe138fa28d7")
+	)
+	(junction
+		(at 212.09 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "382fe951-d8cc-439c-be5e-27e527401339")
 	)
 	(junction
 		(at 246.38 40.64)
@@ -4332,22 +4338,22 @@
 		(uuid "70bc352e-ee34-4ad8-affa-7c0d172926e4")
 	)
 	(junction
-		(at 162.56 213.36)
+		(at 231.14 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "87a87b55-d45c-4874-86c4-0d285669804e")
+		(uuid "7960e51c-63c0-4061-bc28-e609831ddc84")
 	)
 	(junction
-		(at 143.51 220.98)
+		(at 250.19 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a2c714f4-a093-477d-933b-5722ca0b4f7b")
+		(uuid "9abf37e2-4c2b-40ca-a9bf-9a3cf81812b2")
 	)
 	(junction
-		(at 149.86 218.44)
+		(at 224.79 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bc3b4eee-336e-4e53-8df7-8b1965cebb01")
+		(uuid "c8d49977-4067-4343-aa55-cb70eff8088d")
 	)
 	(junction
 		(at 151.13 53.34)
@@ -4356,22 +4362,16 @@
 		(uuid "ca65f61e-acd4-49d2-821e-7a44cdce59ca")
 	)
 	(junction
-		(at 137.16 223.52)
+		(at 243.84 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e77f9309-0f30-4dbc-abf4-815a3fa6281f")
+		(uuid "e0ea887e-a3a7-4bc3-9e92-3a84a6610e21")
 	)
 	(junction
 		(at 151.13 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eebe3521-5d08-4038-b1f0-84bc50b6fdf2")
-	)
-	(junction
-		(at 118.11 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fab0c5cc-626c-4f69-ae0d-9e58e3109e1e")
 	)
 	(no_connect
 		(at 49.53 66.04)
@@ -4419,7 +4419,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 172.72) (xy 157.48 172.72)
+			(xy 140.97 127) (xy 152.4 127)
 		)
 		(stroke
 			(width 0)
@@ -4429,7 +4429,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 139.7) (xy 91.44 142.24)
+			(xy 87.63 142.24) (xy 87.63 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4439,7 +4439,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 223.52) (xy 137.16 241.3)
+			(xy 231.14 129.54) (xy 231.14 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4449,7 +4449,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 144.78) (xy 34.29 144.78)
+			(xy 33.02 147.32) (xy 30.48 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4469,7 +4469,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 226.06) (xy 130.81 226.06)
+			(xy 205.74 132.08) (xy 224.79 132.08)
 		)
 		(stroke
 			(width 0)
@@ -4486,6 +4486,16 @@
 			(type default)
 		)
 		(uuid "1841b211-0b92-480d-8dc6-6d12843ee94a")
+	)
+	(wire
+		(pts
+			(xy 243.84 124.46) (xy 270.51 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18a29820-d765-4aec-b6f9-daf062006544")
 	)
 	(wire
 		(pts
@@ -4509,7 +4519,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 177.8) (xy 157.48 177.8)
+			(xy 140.97 132.08) (xy 152.4 132.08)
 		)
 		(stroke
 			(width 0)
@@ -4519,7 +4529,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 144.78) (xy 43.18 144.78)
+			(xy 38.1 147.32) (xy 39.37 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4539,17 +4549,17 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 220.98) (xy 173.99 220.98)
+			(xy 256.54 119.38) (xy 205.74 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "25c279c7-9435-4002-a770-581b117f35cd")
+		(uuid "24ce7924-6503-4fb8-9f75-29c90edd018c")
 	)
 	(wire
 		(pts
-			(xy 149.86 187.96) (xy 146.05 187.96)
+			(xy 144.78 142.24) (xy 140.97 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4589,7 +4599,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 213.36) (xy 162.56 241.3)
+			(xy 256.54 119.38) (xy 256.54 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4599,7 +4609,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 213.36) (xy 109.22 213.36)
+			(xy 256.54 119.38) (xy 270.51 119.38)
 		)
 		(stroke
 			(width 0)
@@ -4619,7 +4629,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 220.98) (xy 143.51 220.98)
+			(xy 205.74 127) (xy 237.49 127)
 		)
 		(stroke
 			(width 0)
@@ -4629,7 +4639,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 146.05) (xy 236.22 146.05)
+			(xy 158.75 186.69) (xy 166.37 186.69)
 		)
 		(stroke
 			(width 0)
@@ -4649,7 +4659,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 215.9) (xy 156.21 241.3)
+			(xy 250.19 121.92) (xy 250.19 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4669,7 +4679,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 137.16) (xy 78.74 137.16)
+			(xy 77.47 139.7) (xy 74.93 139.7)
 		)
 		(stroke
 			(width 0)
@@ -4677,25 +4687,25 @@
 		)
 		(uuid "465286dd-1d13-46d9-a946-4a6f3169a08c")
 	)
-	(wire
+	(polyline
 		(pts
-			(xy 130.81 226.06) (xy 173.99 226.06)
+			(xy 110.49 104.14) (xy 110.49 198.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4d6d1be3-e9ca-4a99-93e2-47f45edbb865")
+		(uuid "47505888-56cf-4ca7-b60f-f9c8bb8f7523")
 	)
 	(wire
 		(pts
-			(xy 118.11 231.14) (xy 173.99 231.14)
+			(xy 224.79 132.08) (xy 270.51 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4f933d35-7765-43f1-8098-6666db5be067")
+		(uuid "4b4faa8f-23ad-4b1e-b8db-4abf7ce27ab7")
 	)
 	(wire
 		(pts
@@ -4719,7 +4729,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.315 127) (xy 242.57 127)
+			(xy 164.465 167.64) (xy 172.72 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4729,7 +4739,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 218.44) (xy 149.86 241.3)
+			(xy 243.84 124.46) (xy 243.84 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4739,33 +4749,23 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 218.44) (xy 173.99 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "585c29d6-7b2e-4ab8-bd94-1e536b124116")
-	)
-	(polyline
-		(pts
-			(xy 177.8 104.14) (xy 177.8 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b391c22-dd76-4239-8f9c-5c767ce6b3a0")
-	)
-	(wire
-		(pts
-			(xy 146.05 180.34) (xy 157.48 180.34)
+			(xy 140.97 134.62) (xy 152.4 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5e1d2b07-99e0-40aa-b602-95b1b02e7960")
+	)
+	(wire
+		(pts
+			(xy 212.09 137.16) (xy 270.51 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f208cbf-d025-4778-837f-70345648eed3")
 	)
 	(wire
 		(pts
@@ -4776,16 +4776,6 @@
 			(type default)
 		)
 		(uuid "62c94220-5c65-4473-89c4-c38b903c2c94")
-	)
-	(polyline
-		(pts
-			(xy 250.19 104.14) (xy 250.19 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "682b97e5-35fb-4e29-98ec-8a9bfd21fdd0")
 	)
 	(wire
 		(pts
@@ -4799,7 +4789,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 223.52) (xy 137.16 223.52)
+			(xy 205.74 129.54) (xy 231.14 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4819,13 +4809,13 @@
 	)
 	(polyline
 		(pts
-			(xy 177.8 149.86) (xy 177.8 151.13)
+			(xy 11.43 184.15) (xy 110.49 184.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e33e979-4a17-428c-891a-d499380365ad")
+		(uuid "72f11b4c-2b56-46c8-8f67-1bb33e4c7c44")
 	)
 	(wire
 		(pts
@@ -4869,7 +4859,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 157.48) (xy 43.18 157.48)
+			(xy 30.48 160.02) (xy 39.37 160.02)
 		)
 		(stroke
 			(width 0)
@@ -4879,13 +4869,23 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 182.88) (xy 157.48 182.88)
+			(xy 140.97 137.16) (xy 152.4 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "787e76ee-1c71-4fc3-9071-ce436ddac806")
+	)
+	(wire
+		(pts
+			(xy 218.44 134.62) (xy 270.51 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f982e91-a33d-416e-b7ea-3749befbb85a")
 	)
 	(wire
 		(pts
@@ -4909,6 +4909,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 127) (xy 270.51 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8247e4ea-74c2-4f5c-9eae-9ebbd925beb2")
+	)
+	(wire
+		(pts
 			(xy 243.84 43.18) (xy 243.84 40.64)
 		)
 		(stroke
@@ -4926,16 +4936,6 @@
 			(type default)
 		)
 		(uuid "8580d7af-4f16-4042-bf3c-61448288387e")
-	)
-	(wire
-		(pts
-			(xy 156.21 215.9) (xy 179.07 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85b15204-30b8-4fef-8ce6-28074a76908f")
 	)
 	(wire
 		(pts
@@ -4959,7 +4959,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 139.7) (xy 91.44 134.62)
+			(xy 87.63 142.24) (xy 87.63 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4969,7 +4969,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 134.62) (xy 34.29 144.78)
+			(xy 30.48 137.16) (xy 30.48 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4989,7 +4989,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 175.26) (xy 157.48 175.26)
+			(xy 140.97 129.54) (xy 152.4 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5019,17 +5019,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 228.6) (xy 173.99 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99a1de71-1597-41d3-9dfc-18095a49a5b7")
-	)
-	(wire
-		(pts
-			(xy 143.51 220.98) (xy 143.51 241.3)
+			(xy 237.49 127) (xy 237.49 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5039,13 +5029,23 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 226.06) (xy 130.81 241.3)
+			(xy 224.79 132.08) (xy 224.79 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9ab0df45-875f-4615-9bee-3bb038c1c4ff")
+	)
+	(wire
+		(pts
+			(xy 250.19 121.92) (xy 275.59 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d65290f-30bb-4522-8798-222f36eef9a0")
 	)
 	(wire
 		(pts
@@ -5059,17 +5059,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 213.36) (xy 162.56 213.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9da9cdaf-ddd7-44f8-b42c-87588168bf49")
-	)
-	(wire
-		(pts
-			(xy 109.22 231.14) (xy 118.11 231.14)
+			(xy 205.74 137.16) (xy 212.09 137.16)
 		)
 		(stroke
 			(width 0)
@@ -5089,7 +5079,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 185.42) (xy 157.48 185.42)
+			(xy 140.97 139.7) (xy 152.4 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5119,7 +5109,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 127) (xy 186.69 127)
+			(xy 120.65 167.64) (xy 116.84 167.64)
 		)
 		(stroke
 			(width 0)
@@ -5129,7 +5119,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 215.9) (xy 156.21 215.9)
+			(xy 205.74 121.92) (xy 250.19 121.92)
 		)
 		(stroke
 			(width 0)
@@ -5139,7 +5129,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 134.62) (xy 81.28 137.16)
+			(xy 77.47 137.16) (xy 77.47 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5159,16 +5149,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 223.52) (xy 173.99 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b237033a-06d1-4d38-b790-15c0cd4c5d1d")
-	)
-	(wire
-		(pts
 			(xy 89.535 77.47) (xy 97.79 77.47)
 		)
 		(stroke
@@ -5179,7 +5159,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 218.44) (xy 149.86 218.44)
+			(xy 205.74 124.46) (xy 243.84 124.46)
 		)
 		(stroke
 			(width 0)
@@ -5189,7 +5169,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 228.6) (xy 124.46 241.3)
+			(xy 218.44 134.62) (xy 218.44 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5209,7 +5189,17 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 170.18) (xy 146.05 170.18)
+			(xy 231.14 129.54) (xy 270.51 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b790b8b7-0ba0-4207-b6e1-89826ba6ca45")
+	)
+	(wire
+		(pts
+			(xy 144.78 124.46) (xy 140.97 124.46)
 		)
 		(stroke
 			(width 0)
@@ -5219,7 +5209,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 228.6) (xy 124.46 228.6)
+			(xy 205.74 134.62) (xy 218.44 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5267,6 +5257,16 @@
 		)
 		(uuid "c059d6da-89dc-4b47-b0c2-8a1e62f0dda8")
 	)
+	(polyline
+		(pts
+			(xy 110.49 151.13) (xy 176.53 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c173fdb8-04cf-4491-bb51-a0e7ef1dab1c")
+	)
 	(wire
 		(pts
 			(xy 189.23 62.23) (xy 189.23 67.31)
@@ -5277,9 +5277,19 @@
 		)
 		(uuid "c34ba0e1-5697-4cde-a07e-e0552e9f7c18")
 	)
+	(polyline
+		(pts
+			(xy 176.53 104.14) (xy 176.53 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3f57b55-6552-467b-bd5f-457068580ff9")
+	)
 	(wire
 		(pts
-			(xy 205.74 148.59) (xy 198.12 148.59)
+			(xy 135.89 189.23) (xy 128.27 189.23)
 		)
 		(stroke
 			(width 0)
@@ -5299,7 +5309,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 152.4) (xy 43.18 152.4)
+			(xy 30.48 154.94) (xy 39.37 154.94)
 		)
 		(stroke
 			(width 0)
@@ -5307,19 +5317,9 @@
 		)
 		(uuid "c90ed5ab-f2a8-4378-9477-4286b282339d")
 	)
-	(polyline
-		(pts
-			(xy 177.8 151.13) (xy 115.57 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd444a6d-9a11-4db9-8f44-b0f797942ad8")
-	)
 	(wire
 		(pts
-			(xy 81.28 137.16) (xy 81.28 142.24)
+			(xy 77.47 139.7) (xy 77.47 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5339,7 +5339,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 139.7) (xy 91.44 139.7)
+			(xy 74.93 142.24) (xy 87.63 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5349,7 +5349,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 127) (xy 186.69 130.81)
+			(xy 116.84 167.64) (xy 116.84 171.45)
 		)
 		(stroke
 			(width 0)
@@ -5359,7 +5359,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 127) (xy 207.01 127)
+			(xy 130.81 167.64) (xy 137.16 167.64)
 		)
 		(stroke
 			(width 0)
@@ -5409,7 +5409,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 231.14) (xy 118.11 241.3)
+			(xy 212.09 137.16) (xy 212.09 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5429,7 +5429,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 146.05) (xy 205.74 146.05)
+			(xy 128.27 186.69) (xy 135.89 186.69)
 		)
 		(stroke
 			(width 0)
@@ -5439,7 +5439,7 @@
 	)
 	(wire
 		(pts
-			(xy 216.535 127) (xy 224.155 127)
+			(xy 146.685 167.64) (xy 154.305 167.64)
 		)
 		(stroke
 			(width 0)
@@ -5449,7 +5449,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 160.02) (xy 43.18 160.02)
+			(xy 30.48 162.56) (xy 39.37 162.56)
 		)
 		(stroke
 			(width 0)
@@ -5459,23 +5459,13 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 148.59) (xy 228.6 148.59)
+			(xy 165.1 189.23) (xy 158.75 189.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f55b6df5-7e26-4f72-b8ad-24a4d59c34c2")
-	)
-	(polyline
-		(pts
-			(xy 115.57 104.14) (xy 115.57 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6ee8387-dbf4-40f1-b3d8-1a1a04bf988d")
 	)
 	(wire
 		(pts
@@ -5499,7 +5489,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 149.86) (xy 43.18 149.86)
+			(xy 30.48 152.4) (xy 39.37 152.4)
 		)
 		(stroke
 			(width 0)
@@ -5509,7 +5499,7 @@
 	)
 	(text "Debugging Port"
 		(exclude_from_sim no)
-		(at 120.65 158.75 0)
+		(at 113.03 111.76 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5522,7 +5512,7 @@
 	)
 	(text "Mounting Hole"
 		(exclude_from_sim no)
-		(at 254 113.03 0)
+		(at 16.51 193.04 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5559,7 +5549,7 @@
 	)
 	(text "Note: Vcca < Vccb"
 		(exclude_from_sim no)
-		(at 60.96 176.53 0)
+		(at 57.15 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5569,7 +5559,7 @@
 	)
 	(text "Programming Port"
 		(exclude_from_sim no)
-		(at 120.65 113.03 0)
+		(at 179.07 111.76 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5595,7 +5585,7 @@
 	)
 	(text "On-board button"
 		(exclude_from_sim no)
-		(at 203.835 133.985 0)
+		(at 133.985 174.625 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5606,7 +5596,7 @@
 	)
 	(text "Reset and Boot"
 		(exclude_from_sim no)
-		(at 184.15 113.03 0)
+		(at 113.03 157.48 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5644,7 +5634,7 @@
 		(uuid "fb410a8a-e151-40aa-a10f-8942080e1cb2")
 	)
 	(label "RST"
-		(at 157.48 185.42 180)
+		(at 152.4 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5655,7 +5645,7 @@
 		(uuid "02f1b8e4-5361-488d-b555-70fbcc27a1e4")
 	)
 	(label "BOOT"
-		(at 173.99 228.6 180)
+		(at 270.51 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5666,7 +5656,7 @@
 		(uuid "0360aecc-ab68-4bcd-99d4-8a9524d78f55")
 	)
 	(label "RX_B"
-		(at 34.29 160.02 0)
+		(at 30.48 162.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5677,7 +5667,7 @@
 		(uuid "057300dd-3b4b-4189-81bb-3edd38b72442")
 	)
 	(label "SWDIO"
-		(at 157.48 172.72 180)
+		(at 152.4 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5688,7 +5678,7 @@
 		(uuid "0b388e1f-29d8-4fa0-8d4b-aed3070a5fec")
 	)
 	(label "RST"
-		(at 173.99 231.14 180)
+		(at 270.51 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5699,7 +5689,7 @@
 		(uuid "3501e7cc-e546-4474-848c-fe5f92e39cb1")
 	)
 	(label "SWCLK"
-		(at 173.99 220.98 180)
+		(at 270.51 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5710,7 +5700,7 @@
 		(uuid "3b1adb48-1adf-4415-b203-319d993a5676")
 	)
 	(label "RX_A"
-		(at 157.48 180.34 180)
+		(at 152.4 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5732,7 +5722,7 @@
 		(uuid "4cb5ee81-471b-48f3-bcf5-5cc21f18e9fb")
 	)
 	(label "SWDIO"
-		(at 173.99 218.44 180)
+		(at 270.51 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5765,7 +5755,7 @@
 		(uuid "50bc9cef-7037-4f7f-8b8d-b3d94bf33ee2")
 	)
 	(label "TX_B"
-		(at 34.29 157.48 0)
+		(at 30.48 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5787,7 +5777,7 @@
 		(uuid "5fd2ccfb-fe7d-471a-bb2b-c7ddf7b346e4")
 	)
 	(label "RST"
-		(at 205.74 146.05 180)
+		(at 135.89 186.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5798,7 +5788,7 @@
 		(uuid "6749a258-20f4-4ab9-8f8e-b6a585bfccfe")
 	)
 	(label "TX_A"
-		(at 173.99 223.52 180)
+		(at 270.51 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5831,7 +5821,7 @@
 		(uuid "743f2670-5543-4966-8470-4b71f4642bf3")
 	)
 	(label "SWCLK"
-		(at 157.48 175.26 180)
+		(at 152.4 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5853,7 +5843,7 @@
 		(uuid "81f8fd2f-b7b1-4f4c-8bb1-8918406efe89")
 	)
 	(label "BOOT"
-		(at 157.48 182.88 180)
+		(at 152.4 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5864,7 +5854,7 @@
 		(uuid "83576753-3013-4277-860f-8a7b2f01f3c3")
 	)
 	(label "TX_A"
-		(at 157.48 177.8 180)
+		(at 152.4 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5875,7 +5865,7 @@
 		(uuid "87bfee6f-3ea5-4dba-b3ef-f136e45c2491")
 	)
 	(label "RX_A"
-		(at 34.29 152.4 0)
+		(at 30.48 154.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5897,7 +5887,7 @@
 		(uuid "9965ac68-2ae2-4a6a-9027-93d8bd8713a5")
 	)
 	(label "BOOT"
-		(at 236.22 146.05 180)
+		(at 166.37 186.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5908,7 +5898,7 @@
 		(uuid "9f9c549d-bb37-40ab-ba0d-f1c99981f43c")
 	)
 	(label "BOOT"
-		(at 216.535 127 0)
+		(at 146.685 167.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5930,7 +5920,7 @@
 		(uuid "b2e7d35b-a934-4677-8886-f3dae58a338a")
 	)
 	(label "RX_A"
-		(at 173.99 226.06 180)
+		(at 270.51 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5941,7 +5931,7 @@
 		(uuid "bbe6f606-5fb7-4f17-9163-df63bc3f7194")
 	)
 	(label "TX_A"
-		(at 34.29 149.86 0)
+		(at 30.48 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5952,7 +5942,7 @@
 		(uuid "c0a2d90b-ce02-4514-8682-4ffa538c1175")
 	)
 	(label "RST"
-		(at 207.01 127 180)
+		(at 137.16 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5997,7 +5987,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 248.92 0)
+		(at 243.84 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6005,7 +5995,7 @@
 		(dnp no)
 		(uuid "0166271d-9ba3-4cdb-b495-abd97a305d94")
 		(property "Reference" "#PWR037"
-			(at 149.86 255.27 0)
+			(at 243.84 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6014,7 +6004,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 149.86 252.73 0)
+			(at 243.84 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6022,7 +6012,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 248.92 0)
+			(at 243.84 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6031,7 +6021,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 248.92 0)
+			(at 243.84 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6040,7 +6030,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.86 248.92 0)
+			(at 243.84 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6062,7 +6052,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V0")
-		(at 149.86 170.18 0)
+		(at 144.78 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6071,7 +6061,7 @@
 		(fields_autoplaced yes)
 		(uuid "01d5c4f7-9e9c-4926-8aa4-0b36a216edf0")
 		(property "Reference" "#PWR031"
-			(at 149.86 173.99 0)
+			(at 144.78 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6080,7 +6070,7 @@
 			)
 		)
 		(property "Value" "+3V0"
-			(at 149.86 165.1 0)
+			(at 144.78 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6088,7 +6078,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 170.18 0)
+			(at 144.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6097,7 +6087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 170.18 0)
+			(at 144.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6106,7 +6096,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 149.86 170.18 0)
+			(at 144.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6128,7 +6118,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 118.11 245.11 90)
+		(at 212.09 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6136,7 +6126,7 @@
 		(dnp no)
 		(uuid "02c09b2a-ddef-4530-8d2a-e949cbafe2fa")
 		(property "Reference" "D1"
-			(at 113.665 240.665 90)
+			(at 207.645 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6145,7 +6135,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 114.935 241.935 0)
+			(at 208.915 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6154,7 +6144,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6163,7 +6153,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6172,7 +6162,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6181,7 +6171,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6190,7 +6180,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6199,7 +6189,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6208,7 +6198,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6217,7 +6207,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 118.11 245.11 0)
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6225,8 +6215,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 118.11 245.11 0)
+		(property "Type" "SMT"
+			(at 212.09 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,7 +6241,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 130.81 245.11 90)
+		(at 224.79 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6259,7 +6249,7 @@
 		(dnp no)
 		(uuid "04ee28f3-5dbe-4f31-af2f-815f63da1edd")
 		(property "Reference" "D3"
-			(at 126.365 240.665 90)
+			(at 220.345 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +6258,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 127.635 241.935 0)
+			(at 221.615 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +6267,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6286,7 +6276,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6295,7 +6285,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6304,7 +6294,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6313,7 +6303,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6322,7 +6312,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6331,7 +6321,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6340,7 +6330,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 130.81 245.11 0)
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6348,8 +6338,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 130.81 245.11 0)
+		(property "Type" "SMT"
+			(at 224.79 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6374,7 +6364,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 248.92 0)
+		(at 231.14 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6382,7 +6372,7 @@
 		(dnp no)
 		(uuid "0518dbfe-8701-47e8-8c64-571a3ff9170a")
 		(property "Reference" "#PWR035"
-			(at 137.16 255.27 0)
+			(at 231.14 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6391,7 +6381,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 252.73 0)
+			(at 231.14 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6399,7 +6389,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 248.92 0)
+			(at 231.14 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6408,7 +6398,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 248.92 0)
+			(at 231.14 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6417,7 +6407,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 248.92 0)
+			(at 231.14 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6439,7 +6429,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 162.56 245.11 90)
+		(at 256.54 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6447,7 +6437,7 @@
 		(dnp no)
 		(uuid "0749eae8-d3b6-4266-b199-731b0deab80d")
 		(property "Reference" "D8"
-			(at 158.115 240.665 90)
+			(at 252.095 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6456,7 +6446,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 159.385 241.935 0)
+			(at 253.365 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6465,7 +6455,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6474,7 +6464,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6483,7 +6473,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6492,7 +6482,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6501,7 +6491,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6510,7 +6500,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6519,7 +6509,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6528,7 +6518,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 162.56 245.11 0)
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6536,8 +6526,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 162.56 245.11 0)
+		(property "Type" "SMT"
+			(at 256.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6562,7 +6552,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 193.04 146.05 0)
+		(at 123.19 186.69 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6571,7 +6561,7 @@
 		(dnp no)
 		(uuid "09912ad5-9e1e-4239-9bfb-b22086b654ae")
 		(property "Reference" "J2"
-			(at 193.04 154.94 0)
+			(at 123.19 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6579,7 +6569,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 193.04 152.4 0)
+			(at 123.19 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6587,7 +6577,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
-			(at 193.04 146.05 0)
+			(at 123.19 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,8 +6585,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 193.04 146.05 0)
+		(property "Datasheet" "-"
+			(at 123.19 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6604,8 +6594,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 193.04 146.05 0)
+		(property "Description" "DNP"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 123.19 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6630,7 +6674,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 260.35 143.51 0)
+		(at 88.9 191.77 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6639,7 +6683,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b765288-62a3-4a5f-8eb3-463f8bd4d95a")
 		(property "Reference" "H3"
-			(at 262.89 142.2399 0)
+			(at 91.44 190.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6648,7 +6692,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 262.89 144.7799 0)
+			(at 91.44 193.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6657,7 +6701,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
-			(at 260.35 143.51 0)
+			(at 88.9 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,8 +6709,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 260.35 143.51 0)
+		(property "Datasheet" "-"
+			(at 88.9 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6674,8 +6718,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 260.35 143.51 0)
+		(property "Description" "DNP"
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 88.9 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6694,7 +6792,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 223.52 90)
+		(at 205.74 129.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6702,7 +6800,7 @@
 		(dnp no)
 		(uuid "0cb6ddac-0dc7-44e3-88ef-5c5f11ec7392")
 		(property "Reference" "TP5"
-			(at 92.71 223.52 90)
+			(at 189.23 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6710,7 +6808,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 223.52 90)
+			(at 196.342 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6718,7 +6816,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 218.44 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6726,8 +6824,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 218.44 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6735,8 +6833,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 223.52 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6823,7 +6975,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 195.58 127 0)
+		(at 125.73 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6831,7 +6983,7 @@
 		(dnp no)
 		(uuid "10f5df78-c5c8-4a44-81d2-92f70463b9e3")
 		(property "Reference" "SW1"
-			(at 195.58 132.08 0)
+			(at 125.73 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6839,7 +6991,7 @@
 			)
 		)
 		(property "Value" "TL3342F160QG"
-			(at 195.58 122.555 0)
+			(at 125.73 163.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6847,7 +6999,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
-			(at 195.58 121.92 0)
+			(at 125.73 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6855,8 +7007,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
-			(at 195.58 121.92 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
+			(at 125.73 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6864,8 +7016,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 195.58 127 0)
+		(property "Description" "SPST SMD NO 50mA 100MΩ 100000 Times 12V 160gf@±50gf"
+			(at 125.73 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6874,7 +7026,7 @@
 			)
 		)
 		(property "Manufacturer" "E-Switch"
-			(at 195.58 127 0)
+			(at 125.73 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6883,7 +7035,52 @@
 			)
 		)
 		(property "Part Number" "TL3342F160QG"
-			(at 195.58 127 0)
+			(at 125.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 125.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Tactile-Switches_E-Switch-TL3342F160QG_C2886898.html"
+			(at 125.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C2886898 "
+			(at 125.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TL3342F160QG"
+			(at 125.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 125.73 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6940,7 +7137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
 			(at 59.69 45.72 0)
 			(effects
 				(font
@@ -6949,7 +7146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 59.69 45.72 0)
 			(effects
 				(font
@@ -6960,6 +7157,60 @@
 		)
 		(property "Part Description" "Resistor 5.1K 1% 62.5mW"
 			(at 59.69 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 59.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html"
+			(at 59.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C25905"
+			(at 59.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 59.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF5101TCE"
+			(at 59.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 59.69 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6984,7 +7235,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 218.44 90)
+		(at 205.74 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6992,7 +7243,7 @@
 		(dnp no)
 		(uuid "1445dc87-5958-467d-b8e0-84d32d62809b")
 		(property "Reference" "TP3"
-			(at 92.71 218.44 90)
+			(at 189.23 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7000,7 +7251,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 218.44 90)
+			(at 196.342 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7008,7 +7259,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 213.36 0)
+			(at 205.74 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7016,8 +7267,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 213.36 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7025,8 +7276,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 218.44 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7048,7 +7353,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V0")
-		(at 242.57 127 0)
+		(at 172.72 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7056,7 +7361,7 @@
 		(dnp no)
 		(uuid "1895931f-ed7e-4dcf-bf7a-f48f0ae15108")
 		(property "Reference" "#PWR023"
-			(at 242.57 130.81 0)
+			(at 172.72 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7065,7 +7370,7 @@
 			)
 		)
 		(property "Value" "+3V0"
-			(at 242.57 121.92 0)
+			(at 172.72 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7073,7 +7378,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 242.57 127 0)
+			(at 172.72 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7082,7 +7387,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 242.57 127 0)
+			(at 172.72 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7091,7 +7396,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 242.57 127 0)
+			(at 172.72 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7113,7 +7418,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 220.98 90)
+		(at 205.74 127 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7121,7 +7426,7 @@
 		(dnp no)
 		(uuid "1e0ef816-b326-4f94-9abe-d4058e8e7ee2")
 		(property "Reference" "TP4"
-			(at 92.71 220.98 90)
+			(at 189.23 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7129,7 +7434,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 220.98 90)
+			(at 196.342 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7137,7 +7442,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 215.9 0)
+			(at 205.74 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7145,8 +7450,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 215.9 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7154,8 +7459,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 220.98 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7242,7 +7601,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V0")
-		(at 81.28 134.62 0)
+		(at 77.47 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7251,7 +7610,7 @@
 		(fields_autoplaced yes)
 		(uuid "2324b75a-9d92-4629-b65f-133f3b9e167d")
 		(property "Reference" "#PWR019"
-			(at 81.28 138.43 0)
+			(at 77.47 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7260,7 +7619,7 @@
 			)
 		)
 		(property "Value" "+3V0"
-			(at 81.28 129.54 0)
+			(at 77.47 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7268,7 +7627,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 134.62 0)
+			(at 77.47 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7277,7 +7636,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 134.62 0)
+			(at 77.47 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7286,7 +7645,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 81.28 134.62 0)
+			(at 77.47 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7308,7 +7667,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 179.07 215.9 0)
+		(at 275.59 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7317,7 +7676,7 @@
 		(fields_autoplaced yes)
 		(uuid "2535d9d8-fd81-47ad-9294-6b47234dbce3")
 		(property "Reference" "#PWR026"
-			(at 179.07 219.71 0)
+			(at 275.59 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7326,7 +7685,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 179.07 210.82 0)
+			(at 275.59 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7334,7 +7693,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 215.9 0)
+			(at 275.59 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7343,7 +7702,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 215.9 0)
+			(at 275.59 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7352,7 +7711,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 179.07 215.9 0)
+			(at 275.59 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7374,7 +7733,7 @@
 	)
 	(symbol
 		(lib_id "TXS0102DCUR:TXS0102DCUR")
-		(at 60.96 152.4 0)
+		(at 57.15 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7383,7 +7742,7 @@
 		(fields_autoplaced yes)
 		(uuid "25709b06-18d4-40d1-8d3b-8641487fdc76")
 		(property "Reference" "U4"
-			(at 60.96 129.54 0)
+			(at 57.15 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7391,7 +7750,7 @@
 			)
 		)
 		(property "Value" "TXS0102DCUR"
-			(at 60.96 132.08 0)
+			(at 57.15 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7399,7 +7758,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:SOP50P310X90-8N"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7408,8 +7767,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 60.96 152.4 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810292010_Texas-Instruments-TXS0102DCUR_C53434.pdf"
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7417,8 +7776,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 60.96 152.4 0)
+		(property "Description" "2.3V~5.5V 1 2 1.65V~3.6V 24Mbps VSSOP-8 Translators, Level Shifters ROHS"
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7427,7 +7786,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7437,7 +7796,7 @@
 			)
 		)
 		(property "Description_1" "\n2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application\n"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +7806,7 @@
 			)
 		)
 		(property "Package" "VSSOP-8 Texas Instruments"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7457,7 +7816,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7467,7 +7826,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TXS0102DCUR/Texas+Instruments/view-part/?ref=snap"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7477,7 +7836,7 @@
 			)
 		)
 		(property "MP" "TXS0102DCUR"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7487,7 +7846,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=105350&manufacturer=Texas Instruments&part_name=TXS0102DCUR&search_term=txs0102dcur"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7497,7 +7856,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7507,12 +7866,66 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TXS0102DCUR/Texas+Instruments/view-part/?ref=eda"
-			(at 60.96 152.4 0)
+			(at 57.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Translators-Level-Shifters_Texas-Instruments-TXS0102DCUR_C53434.html"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C53434"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" " Texas Instruments"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TXS0102DCUR"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7585,7 +7998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf"
 			(at 96.52 42.545 0)
 			(effects
 				(font
@@ -7594,7 +8007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 96.52 42.545 0)
 			(effects
 				(font
@@ -7603,7 +8016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 96.52 42.545 0)
 			(effects
 				(font
@@ -7622,6 +8035,51 @@
 			)
 		)
 		(property "Part Description" "Ceramic Capacitor 100nF 10% 10V X5R"
+			(at 96.52 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 96.52 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 96.52 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C1525"
+			(at 96.52 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+			(at 96.52 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 96.52 42.545 0)
 			(effects
 				(font
@@ -7712,7 +8170,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 140.97 177.8 0)
+		(at 135.89 132.08 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7721,7 +8179,7 @@
 		(dnp no)
 		(uuid "2b6a4002-e0a7-4a95-b0b2-27cd0b210321")
 		(property "Reference" "J4"
-			(at 140.97 194.31 0)
+			(at 135.89 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7729,7 +8187,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08"
-			(at 140.97 191.77 0)
+			(at 135.89 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7737,7 +8195,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal"
-			(at 140.97 177.8 0)
+			(at 135.89 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7745,8 +8203,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 140.97 177.8 0)
+		(property "Datasheet" "-"
+			(at 135.89 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7754,8 +8212,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 140.97 177.8 0)
+		(property "Description" "DNP"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 135.89 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7798,7 +8310,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 226.06 90)
+		(at 205.74 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7806,7 +8318,7 @@
 		(dnp no)
 		(uuid "2dd993f7-44e1-4cc3-9434-06c8f7c55d3a")
 		(property "Reference" "TP6"
-			(at 92.71 226.06 90)
+			(at 189.23 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7814,7 +8326,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 226.06 90)
+			(at 196.342 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7822,7 +8334,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 220.98 0)
+			(at 205.74 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7830,8 +8342,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 220.98 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7839,8 +8351,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 226.06 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7862,7 +8428,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V0")
-		(at 234.95 148.59 270)
+		(at 165.1 189.23 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7871,7 +8437,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e1f0774-e986-41c5-8f7b-2f3abd12f2d2")
 		(property "Reference" "#PWR029"
-			(at 231.14 148.59 0)
+			(at 161.29 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7880,7 +8446,7 @@
 			)
 		)
 		(property "Value" "+3V0"
-			(at 238.76 148.5899 90)
+			(at 168.91 189.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7889,7 +8455,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.95 148.59 0)
+			(at 165.1 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7898,7 +8464,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 148.59 0)
+			(at 165.1 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7907,7 +8473,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 234.95 148.59 0)
+			(at 165.1 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7929,7 +8495,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 91.44 147.32 0)
+		(at 87.63 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7938,7 +8504,7 @@
 		(fields_autoplaced yes)
 		(uuid "3522c9b2-ff10-4cea-a8b0-b93fb884dc00")
 		(property "Reference" "#PWR022"
-			(at 91.44 153.67 0)
+			(at 87.63 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7947,7 +8513,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 152.4 0)
+			(at 87.63 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7955,7 +8521,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 147.32 0)
+			(at 87.63 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7964,7 +8530,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 147.32 0)
+			(at 87.63 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7973,7 +8539,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 147.32 0)
+			(at 87.63 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8060,7 +8626,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 215.9 90)
+		(at 205.74 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8068,7 +8634,7 @@
 		(dnp no)
 		(uuid "3c1d8041-3262-482c-a33f-e7eb6a71dbb7")
 		(property "Reference" "TP2"
-			(at 92.71 216.154 90)
+			(at 189.23 122.174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8076,7 +8642,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 215.9 90)
+			(at 196.342 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8084,7 +8650,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 210.82 0)
+			(at 205.74 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8092,8 +8658,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 210.82 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8101,8 +8667,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 215.9 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8124,7 +8744,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 81.28 144.78 0)
+		(at 77.47 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8133,7 +8753,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e50782d-23c6-41da-9303-9517752fa755")
 		(property "Reference" "C6"
-			(at 83.82 143.5162 0)
+			(at 80.01 146.0562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8142,7 +8762,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 83.82 146.0562 0)
+			(at 80.01 148.5962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8151,7 +8771,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 81.28 144.78 0)
+			(at 77.47 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8159,8 +8779,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 81.28 144.78 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf"
+			(at 77.47 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8168,8 +8788,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 81.28 144.78 0)
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 77.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 77.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 77.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C1525"
+			(at 77.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 77.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+			(at 77.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 77.47 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8230,7 +8904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mpja.com/download/35227cpdata.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403131141_WCH-Jiangsu-Qin-Heng-CH340E_C99652.pdf"
 			(at 237.49 38.1 0)
 			(effects
 				(font
@@ -8239,7 +8913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2Mbps Transceiver USB 2.0 MSOP-10 USB Converters ROHS "
 			(at 246.38 58.42 0)
 			(effects
 				(font
@@ -8258,6 +8932,51 @@
 			)
 		)
 		(property "Part Number" "CH340E"
+			(at 246.38 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 246.38 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340E_C99652.html"
+			(at 246.38 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C99652"
+			(at 246.38 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CH340E"
+			(at 246.38 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 246.38 58.42 0)
 			(effects
 				(font
@@ -8307,7 +9026,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 39.37 144.78 90)
+		(at 35.56 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8315,7 +9034,7 @@
 		(dnp no)
 		(uuid "4ab439b3-c86b-4501-9cc4-6c45dce3f323")
 		(property "Reference" "R4"
-			(at 37.084 142.494 90)
+			(at 33.274 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8323,7 +9042,7 @@
 			)
 		)
 		(property "Value" "5.1K"
-			(at 42.164 142.494 90)
+			(at 38.354 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8331,7 +9050,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 39.37 144.78 0)
+			(at 35.56 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8339,8 +9058,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 39.37 144.78 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
+			(at 35.56 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8348,8 +9067,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 39.37 144.78 0)
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 35.56 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8358,7 +9077,61 @@
 			)
 		)
 		(property "Part Description" "Resistor 5.1K 1% 62.5mW"
-			(at 39.37 144.78 90)
+			(at 35.56 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 35.56 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html"
+			(at 35.56 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C25905"
+			(at 35.56 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 35.56 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF5101TCE"
+			(at 35.56 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 35.56 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8383,7 +9156,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 156.21 248.92 0)
+		(at 250.19 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8391,7 +9164,7 @@
 		(dnp no)
 		(uuid "59874ba1-d477-44d5-905d-4548a66ce1ca")
 		(property "Reference" "#PWR038"
-			(at 156.21 255.27 0)
+			(at 250.19 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8400,7 +9173,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.21 252.73 0)
+			(at 250.19 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8408,7 +9181,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 248.92 0)
+			(at 250.19 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8417,7 +9190,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 248.92 0)
+			(at 250.19 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8426,7 +9199,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 248.92 0)
+			(at 250.19 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8483,7 +9256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809192323_STMicroelectronics-USBLC6-2P6_C15999.pdf"
 			(at 113.03 66.04 0)
 			(effects
 				(font
@@ -8492,7 +9265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "5A 17V 6V Unidirectional 5.25V SOT-666-6 ESD and Surge Protection (TVS/ESD) ROHS"
 			(at 107.95 74.93 0)
 			(effects
 				(font
@@ -8511,6 +9284,51 @@
 			)
 		)
 		(property "Part Number" "USBLC6-2P6"
+			(at 107.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 107.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/ESD-Protection-Devices_STMicroelectronics-USBLC6-2P6_C15999.html"
+			(at 107.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C15999"
+			(at 107.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "USBLC6-2P6 "
+			(at 107.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 107.95 74.93 0)
 			(effects
 				(font
@@ -8548,7 +9366,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 124.46 245.11 90)
+		(at 218.44 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8556,7 +9374,7 @@
 		(dnp no)
 		(uuid "6065a39b-e8b0-4b80-bdbf-7f4842a0be14")
 		(property "Reference" "D2"
-			(at 120.015 240.665 90)
+			(at 213.995 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8565,7 +9383,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 121.285 241.935 0)
+			(at 215.265 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8574,7 +9392,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8583,7 +9401,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8592,7 +9410,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8601,7 +9419,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8610,7 +9428,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8619,7 +9437,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8628,7 +9446,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8637,7 +9455,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 124.46 245.11 0)
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8645,8 +9463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 124.46 245.11 0)
+		(property "Type" "SMT"
+			(at 218.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8703,7 +9521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
 			(at 59.69 43.18 0)
 			(effects
 				(font
@@ -8712,7 +9530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 59.69 43.18 0)
 			(effects
 				(font
@@ -8723,6 +9541,60 @@
 		)
 		(property "Part Description" "Resistor 5.1K 1% 62.5mW"
 			(at 59.69 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 59.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html"
+			(at 59.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C25905"
+			(at 59.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 59.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF5101TCE"
+			(at 59.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 59.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8747,7 +9619,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 149.86 245.11 90)
+		(at 243.84 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8755,7 +9627,7 @@
 		(dnp no)
 		(uuid "677bb881-a92b-4c73-bbdf-6d44fee22946")
 		(property "Reference" "D6"
-			(at 145.415 240.665 90)
+			(at 239.395 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8764,7 +9636,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 146.685 241.935 0)
+			(at 240.665 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8773,7 +9645,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8782,7 +9654,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8791,7 +9663,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8800,7 +9672,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8809,7 +9681,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8818,7 +9690,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8827,7 +9699,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8836,7 +9708,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 149.86 245.11 0)
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8844,8 +9716,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 149.86 245.11 0)
+		(property "Type" "SMT"
+			(at 243.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8870,7 +9742,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 91.44 134.62 0)
+		(at 87.63 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8878,7 +9750,7 @@
 		(dnp no)
 		(uuid "680360fb-b1cf-4ab6-95fd-e68616345292")
 		(property "Reference" "#PWR020"
-			(at 91.44 138.43 0)
+			(at 87.63 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8887,7 +9759,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 93.98 130.048 0)
+			(at 90.17 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8896,7 +9768,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 134.62 0)
+			(at 87.63 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8905,7 +9777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 134.62 0)
+			(at 87.63 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8914,7 +9786,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 134.62 0)
+			(at 87.63 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8968,7 +9840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.pdf"
 			(at 151.13 62.23 0)
 			(effects
 				(font
@@ -8977,7 +9849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 151.13 62.23 0)
 			(effects
 				(font
@@ -8987,6 +9859,60 @@
 			)
 		)
 		(property "Part Description" "Ceramic Capacitor 10uF 10% 10V X5R"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.html"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C17024"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A106KPFNNNE"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 151.13 62.23 0)
 			(effects
 				(font
@@ -9012,7 +9938,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 205.74 148.59 0)
+		(at 135.89 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9021,7 +9947,7 @@
 		(fields_autoplaced yes)
 		(uuid "69e17a34-93af-4988-9809-4810c840e5e0")
 		(property "Reference" "#PWR028"
-			(at 205.74 154.94 0)
+			(at 135.89 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9030,7 +9956,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 205.74 153.67 0)
+			(at 135.89 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9038,7 +9964,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 148.59 0)
+			(at 135.89 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9047,7 +9973,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 148.59 0)
+			(at 135.89 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9056,7 +9982,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 205.74 148.59 0)
+			(at 135.89 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9274,7 +10200,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 231.14 90)
+		(at 205.74 137.16 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9282,7 +10208,7 @@
 		(dnp no)
 		(uuid "6fe106ca-dbe6-468b-ae2e-304d51b982ac")
 		(property "Reference" "TP8"
-			(at 92.71 231.14 90)
+			(at 189.23 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9290,7 +10216,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 231.14 90)
+			(at 196.342 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9298,7 +10224,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 226.06 0)
+			(at 205.74 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9306,8 +10232,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 226.06 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9315,8 +10241,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 231.14 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9373,7 +10353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.pdf"
 			(at 189.23 59.69 0)
 			(effects
 				(font
@@ -9382,7 +10362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 189.23 59.69 0)
 			(effects
 				(font
@@ -9392,6 +10372,60 @@
 			)
 		)
 		(property "Part Description" "Ceramic Capacitor 10uF 10% 10V X5R"
+			(at 189.23 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 189.23 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KPFNNNE_C17024.html"
+			(at 189.23 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C17024"
+			(at 189.23 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 189.23 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A106KPFNNNE"
+			(at 189.23 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 189.23 59.69 0)
 			(effects
 				(font
@@ -9450,7 +10484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2405311753_XKB-Connection-U262-161N-4BVC11_C319148.pdf"
 			(at 38.1 53.34 0)
 			(effects
 				(font
@@ -9459,7 +10493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3A USB 3.1 1 260℃ Horizontal attachment 16P Female -40℃~+85℃ Gold Copper Alloy Type-C SMD USB Connectors ROHS"
 			(at 34.29 53.34 0)
 			(effects
 				(font
@@ -9478,6 +10512,51 @@
 			)
 		)
 		(property "Part Number" "U262-161N-4BVC11"
+			(at 34.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 34.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/USB-Connectors_XKB-Connectivity-U262-161N-4BVC11_C319148.html"
+			(at 34.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C319148"
+			(at 34.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "U262-161N-4BVC11 "
+			(at 34.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 34.29 53.34 0)
 			(effects
 				(font
@@ -9613,7 +10692,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 143.51 245.11 90)
+		(at 237.49 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9621,7 +10700,7 @@
 		(dnp no)
 		(uuid "762f9212-cc1e-4cc7-a3c9-76be0ae6dc3f")
 		(property "Reference" "D5"
-			(at 139.065 240.665 90)
+			(at 233.045 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9630,7 +10709,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 140.335 241.935 0)
+			(at 234.315 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9639,7 +10718,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9648,7 +10727,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9657,7 +10736,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9666,7 +10745,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9675,7 +10754,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9684,7 +10763,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9693,7 +10772,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9702,7 +10781,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 143.51 245.11 0)
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9710,8 +10789,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 143.51 245.11 0)
+		(property "Type" "SMT"
+			(at 237.49 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9736,7 +10815,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 248.92 0)
+		(at 237.49 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9744,7 +10823,7 @@
 		(dnp no)
 		(uuid "7786f2bd-c49e-4cbb-bc73-5836a456dffd")
 		(property "Reference" "#PWR036"
-			(at 143.51 255.27 0)
+			(at 237.49 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9753,7 +10832,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 252.73 0)
+			(at 237.49 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9761,7 +10840,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 248.92 0)
+			(at 237.49 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9770,7 +10849,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 248.92 0)
+			(at 237.49 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9779,7 +10858,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 143.51 248.92 0)
+			(at 237.49 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9801,7 +10880,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.56 248.92 0)
+		(at 256.54 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9809,7 +10888,7 @@
 		(dnp no)
 		(uuid "7ca46f13-389d-48ee-99e5-b8ffdb106ea1")
 		(property "Reference" "#PWR039"
-			(at 162.56 255.27 0)
+			(at 256.54 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9818,7 +10897,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 252.73 0)
+			(at 256.54 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9826,7 +10905,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 248.92 0)
+			(at 256.54 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9835,7 +10914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 248.92 0)
+			(at 256.54 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9844,7 +10923,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 248.92 0)
+			(at 256.54 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9866,7 +10945,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 91.44 144.78 0)
+		(at 87.63 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9875,7 +10954,7 @@
 		(fields_autoplaced yes)
 		(uuid "889f3f8e-e3c6-438a-ba5b-df74fed96b8e")
 		(property "Reference" "C7"
-			(at 93.98 143.5162 0)
+			(at 90.17 146.0562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9884,7 +10963,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 93.98 146.0562 0)
+			(at 90.17 148.5962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9893,7 +10972,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 91.44 144.78 0)
+			(at 87.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9901,8 +10980,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 91.44 144.78 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf"
+			(at 87.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9910,8 +10989,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 91.44 144.78 0)
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 87.63 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 87.63 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 87.63 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C1525"
+			(at 87.63 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 87.63 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+			(at 87.63 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 87.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9936,7 +11069,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 118.11 248.92 0)
+		(at 212.09 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9944,7 +11077,7 @@
 		(dnp no)
 		(uuid "959c1a51-e08e-4806-a794-49f500b3d7f6")
 		(property "Reference" "#PWR032"
-			(at 118.11 255.27 0)
+			(at 212.09 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9953,7 +11086,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.11 252.73 0)
+			(at 212.09 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9961,7 +11094,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 248.92 0)
+			(at 212.09 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9970,7 +11103,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 248.92 0)
+			(at 212.09 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9979,7 +11112,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 248.92 0)
+			(at 212.09 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10083,7 +11216,7 @@
 				)
 			)
 		)
-		(property "Value" "0.75A"
+		(property "Value" "SMD0805P075TF"
 			(at 102.235 36.195 90)
 			(effects
 				(font
@@ -10101,7 +11234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403081022_RUILON-Shenzhen-Ruilongyuan-Elec-SMD0805P075TF_C20979.pdf"
 			(at 102.235 38.1 0)
 			(effects
 				(font
@@ -10110,7 +11243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6V 750mA 40A 1.5A 0805 Resettable Fuses ROHS"
 			(at 102.235 38.1 0)
 			(effects
 				(font
@@ -10119,7 +11252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "RUILON"
+		(property "Manufacturer" "RUILON(Shenzhen Ruilongyuan Elec)"
 			(at 102.235 38.1 90)
 			(effects
 				(font
@@ -10139,6 +11272,51 @@
 		)
 		(property "Part Description" "Resettable Fuses 6V 750mA 40A 1.5A"
 			(at 102.235 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 102.235 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Resettable-Fuses_RUILON-Shenzhen-Ruilongyuan-Elec-SMD0805P075TF_C20979.html"
+			(at 102.235 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C20979"
+			(at 102.235 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SMD0805P075TF"
+			(at 102.235 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 102.235 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10229,7 +11407,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 233.68 0)
+		(at 205.74 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10238,7 +11416,7 @@
 		(fields_autoplaced yes)
 		(uuid "99baaceb-b37b-4251-a2f8-a10c8c5b2acf")
 		(property "Reference" "#PWR027"
-			(at 109.22 240.03 0)
+			(at 205.74 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10247,7 +11425,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 238.76 0)
+			(at 205.74 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10255,7 +11433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 233.68 0)
+			(at 205.74 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10264,7 +11442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 233.68 0)
+			(at 205.74 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10273,7 +11451,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 233.68 0)
+			(at 205.74 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10494,7 +11672,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 260.35 128.27 0)
+		(at 48.26 191.77 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10503,7 +11681,7 @@
 		(fields_autoplaced yes)
 		(uuid "b2e6e266-bdab-4283-a8d6-ce89585ccc3e")
 		(property "Reference" "H1"
-			(at 262.89 126.9999 0)
+			(at 50.8 190.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10512,7 +11690,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 262.89 129.5399 0)
+			(at 50.8 193.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10521,7 +11699,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
-			(at 260.35 128.27 0)
+			(at 48.26 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10529,8 +11707,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 260.35 128.27 0)
+		(property "Datasheet" "-"
+			(at 48.26 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10538,8 +11716,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 260.35 128.27 0)
+		(property "Description" "DNP"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 48.26 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10558,7 +11790,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 187.96 0)
+		(at 144.78 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10567,7 +11799,7 @@
 		(fields_autoplaced yes)
 		(uuid "b527613f-bbd8-43b7-8a32-6fce1bdc64be")
 		(property "Reference" "#PWR030"
-			(at 149.86 194.31 0)
+			(at 144.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10576,7 +11808,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 149.86 193.04 0)
+			(at 144.78 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10584,7 +11816,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 187.96 0)
+			(at 144.78 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10593,7 +11825,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 187.96 0)
+			(at 144.78 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10602,7 +11834,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.86 187.96 0)
+			(at 144.78 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10624,7 +11856,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 147.32 0)
+		(at 77.47 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10633,7 +11865,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7864f71-3619-4cca-92c8-55eaa5112308")
 		(property "Reference" "#PWR021"
-			(at 81.28 153.67 0)
+			(at 77.47 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10642,7 +11874,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 152.4 0)
+			(at 77.47 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10650,7 +11882,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 147.32 0)
+			(at 77.47 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10659,7 +11891,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 147.32 0)
+			(at 77.47 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10668,7 +11900,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 147.32 0)
+			(at 77.47 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10690,7 +11922,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V0")
-		(at 34.29 134.62 0)
+		(at 30.48 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10699,7 +11931,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7c2a7a9-fa89-422b-9328-6334b8d2d37d")
 		(property "Reference" "#PWR024"
-			(at 34.29 138.43 0)
+			(at 30.48 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10708,7 +11940,7 @@
 			)
 		)
 		(property "Value" "+3V0"
-			(at 34.29 129.54 0)
+			(at 30.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10716,7 +11948,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 134.62 0)
+			(at 30.48 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10725,7 +11957,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 134.62 0)
+			(at 30.48 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10734,7 +11966,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 34.29 134.62 0)
+			(at 30.48 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10756,7 +11988,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 248.92 0)
+		(at 218.44 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10764,7 +11996,7 @@
 		(dnp no)
 		(uuid "bac9cb02-1ca2-41f9-99a7-cf7b08e3b44b")
 		(property "Reference" "#PWR033"
-			(at 124.46 255.27 0)
+			(at 218.44 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10773,7 +12005,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 124.46 252.73 0)
+			(at 218.44 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10781,7 +12013,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 248.92 0)
+			(at 218.44 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10790,7 +12022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 248.92 0)
+			(at 218.44 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10799,7 +12031,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 248.92 0)
+			(at 218.44 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10821,7 +12053,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 213.36 90)
+		(at 205.74 119.38 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10829,7 +12061,7 @@
 		(dnp no)
 		(uuid "bb1d2d0b-57fd-4597-8787-341418e40a7b")
 		(property "Reference" "TP1"
-			(at 92.71 213.36 90)
+			(at 189.23 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10837,7 +12069,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 213.36 90)
+			(at 196.342 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10845,7 +12077,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 208.28 0)
+			(at 205.74 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10853,8 +12085,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 208.28 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10862,8 +12094,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 213.36 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10885,7 +12171,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 186.69 130.81 0)
+		(at 116.84 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10894,7 +12180,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc9fea5a-9123-4fe5-a96f-1f48437e2400")
 		(property "Reference" "#PWR017"
-			(at 186.69 137.16 0)
+			(at 116.84 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10903,7 +12189,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 186.69 135.89 0)
+			(at 116.84 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10911,7 +12197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 130.81 0)
+			(at 116.84 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10920,7 +12206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 130.81 0)
+			(at 116.84 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10929,7 +12215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 130.81 0)
+			(at 116.84 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10951,7 +12237,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 165.1 0)
+		(at 74.93 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10960,7 +12246,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce2e957b-7b77-468b-ab4c-8c42a0a54217")
 		(property "Reference" "#PWR018"
-			(at 78.74 171.45 0)
+			(at 74.93 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10969,7 +12255,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 170.18 0)
+			(at 74.93 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10977,7 +12263,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 165.1 0)
+			(at 74.93 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10986,7 +12272,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 165.1 0)
+			(at 74.93 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10995,7 +12281,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 165.1 0)
+			(at 74.93 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11017,7 +12303,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V0")
-		(at 173.99 213.36 0)
+		(at 270.51 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11026,7 +12312,7 @@
 		(fields_autoplaced yes)
 		(uuid "d726215a-d9ee-40a6-afb5-d55694c9d57b")
 		(property "Reference" "#PWR025"
-			(at 173.99 217.17 0)
+			(at 270.51 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11035,7 +12321,7 @@
 			)
 		)
 		(property "Value" "+3V0"
-			(at 173.99 208.28 0)
+			(at 270.51 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11043,7 +12329,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 213.36 0)
+			(at 270.51 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11052,7 +12338,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 213.36 0)
+			(at 270.51 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11061,7 +12347,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 173.99 213.36 0)
+			(at 270.51 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11115,7 +12401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_TDK-MMZ1608B601CTAH0_C97120.pdf"
 			(at 90.17 38.1 0)
 			(effects
 				(font
@@ -11124,7 +12410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "400mΩ ±25% 600Ω@100MHz 0603 Ferrite Beads ROHS"
 			(at 90.17 38.1 0)
 			(effects
 				(font
@@ -11160,7 +12446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "MMZ1608B601CTAH0"
 			(at 90.17 38.1 0)
 			(effects
 				(font
@@ -11169,7 +12455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
 			(at 90.17 38.1 0)
 			(effects
 				(font
@@ -11178,7 +12464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "C97120"
 			(at 90.17 38.1 0)
 			(effects
 				(font
@@ -11187,7 +12473,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Ferrite-Beads_TDK-MMZ1608B601CTAH0_C97120.html"
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 90.17 38.1 0)
 			(effects
 				(font
@@ -11278,7 +12573,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 137.16 245.11 90)
+		(at 231.14 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11286,7 +12581,7 @@
 		(dnp no)
 		(uuid "d88572f2-fe9d-4f57-8dfe-d38aaf10946d")
 		(property "Reference" "D4"
-			(at 132.715 240.665 90)
+			(at 226.695 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11295,7 +12590,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 133.985 241.935 0)
+			(at 227.965 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11304,7 +12599,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11313,7 +12608,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11322,7 +12617,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11331,7 +12626,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11340,7 +12635,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11349,7 +12644,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11358,7 +12653,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11367,7 +12662,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 137.16 245.11 0)
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11375,8 +12670,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 137.16 245.11 0)
+		(property "Type" "SMT"
+			(at 231.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11433,7 +12728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/760/TOSL_S_A0010556302_1-2575005.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810010324_Torex-Semicon-XC6220B331MR-G_C86534.pdf"
 			(at 175.26 53.34 0)
 			(effects
 				(font
@@ -11442,7 +12737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50dB@(1kHz) 1A Fixed 3.3V Positive electrode 6V SOT-25-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 175.26 55.88 0)
 			(effects
 				(font
@@ -11461,6 +12756,51 @@
 			)
 		)
 		(property "Part Number" "XC6220B331MR-G"
+			(at 175.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 175.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Torex-Semicon-XC6220B331MR-G_C86534.html"
+			(at 175.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C86534"
+			(at 175.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "XC6220B331MR-G "
+			(at 175.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 175.26 55.88 0)
 			(effects
 				(font
@@ -11561,7 +12901,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 260.35 135.89 0)
+		(at 68.58 191.77 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -11570,7 +12910,7 @@
 		(fields_autoplaced yes)
 		(uuid "e377026e-7817-42af-abbe-21c0bfe66e41")
 		(property "Reference" "H2"
-			(at 262.89 134.6199 0)
+			(at 71.12 190.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11579,7 +12919,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 262.89 137.1599 0)
+			(at 71.12 193.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11588,7 +12928,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
-			(at 260.35 135.89 0)
+			(at 68.58 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11596,8 +12936,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 260.35 135.89 0)
+		(property "Datasheet" "-"
+			(at 68.58 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11605,8 +12945,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 260.35 135.89 0)
+		(property "Description" "DNP"
+			(at 68.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 68.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 68.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 68.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 68.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 68.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 68.58 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11625,7 +13019,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 156.21 245.11 90)
+		(at 250.19 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11633,7 +13027,7 @@
 		(dnp no)
 		(uuid "e59d65ad-181a-4879-b924-b5af895e9186")
 		(property "Reference" "D7"
-			(at 151.765 240.665 90)
+			(at 245.745 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11642,7 +13036,7 @@
 			)
 		)
 		(property "Value" "ESD5651N"
-			(at 153.035 241.935 0)
+			(at 247.015 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11651,7 +13045,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11660,7 +13054,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808311544_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.pdf"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11669,7 +13063,7 @@
 			)
 		)
 		(property "Description" "35A@8/20us 15V 4.5V DFN1006-2L Electrostatic and Surge Protection (TVS/ESD) ROHS"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11678,7 +13072,7 @@
 			)
 		)
 		(property "Manufacturer" "WILLSEMI(Will Semicon)"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11687,7 +13081,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "ESD5651N-2/TR"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11696,7 +13090,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11705,7 +13099,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C239784"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11714,7 +13108,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_WILLSEMI-Will-Semicon-ESD5651N-2-TR_C239784.html"
-			(at 156.21 245.11 0)
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11722,8 +13116,8 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
-			(at 156.21 245.11 0)
+		(property "Type" "SMT"
+			(at 250.19 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11782,7 +13176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-CC0402KRX7R9BB103_C60133.pdf"
 			(at 83.82 42.545 0)
 			(effects
 				(font
@@ -11791,7 +13185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 83.82 42.545 0)
 			(effects
 				(font
@@ -11827,6 +13221,51 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "LCSC"
+			(at 83.82 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R9BB103_C60133.html"
+			(at 83.82 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C60133"
+			(at 83.82 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0402KRX7R9BB103"
+			(at 83.82 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 83.82 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f83b0a75-6847-430c-833c-46b2d7f390e5")
 		)
@@ -11844,7 +13283,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 223.52 146.05 0)
+		(at 153.67 186.69 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11853,7 +13292,7 @@
 		(dnp no)
 		(uuid "ea2a6691-f083-42e2-9a38-9f61bdc49365")
 		(property "Reference" "J3"
-			(at 223.52 154.94 0)
+			(at 153.67 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11861,7 +13300,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 223.52 152.4 0)
+			(at 153.67 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11869,7 +13308,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
-			(at 223.52 146.05 0)
+			(at 153.67 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11877,8 +13316,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 223.52 146.05 0)
+		(property "Datasheet" "-"
+			(at 153.67 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11886,8 +13325,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 223.52 146.05 0)
+		(property "Description" "DNP"
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 153.67 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11912,7 +13405,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 228.6 90)
+		(at 205.74 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11920,7 +13413,7 @@
 		(dnp no)
 		(uuid "ec4f4c6f-3cce-468c-b565-28a996d8eabb")
 		(property "Reference" "TP7"
-			(at 92.71 228.6 90)
+			(at 189.23 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11928,7 +13421,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 228.6 90)
+			(at 196.342 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11936,7 +13429,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 223.52 0)
+			(at 205.74 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11944,8 +13437,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 223.52 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11953,8 +13446,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 228.6 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11976,7 +13523,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 229.235 127 0)
+		(at 159.385 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11984,7 +13531,7 @@
 		(dnp no)
 		(uuid "ec66829c-4e01-4b07-9169-a83669f5d41c")
 		(property "Reference" "SW2"
-			(at 231.775 132.715 0)
+			(at 161.925 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11993,7 +13540,7 @@
 			)
 		)
 		(property "Value" "TL3342F160QG"
-			(at 236.22 122.555 0)
+			(at 166.37 163.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12002,7 +13549,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
-			(at 229.235 121.92 0)
+			(at 159.385 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12010,8 +13557,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
-			(at 229.235 121.92 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2109061530_E-Switch-TL3342F160QG_C2886898.pdf"
+			(at 159.385 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12019,8 +13566,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 229.235 127 0)
+		(property "Description" "SPST SMD NO 50mA 100MΩ 100000 Times 12V 160gf@±50gf"
+			(at 159.385 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12029,7 +13576,7 @@
 			)
 		)
 		(property "Manufacturer" "E-Switch"
-			(at 229.235 127 90)
+			(at 159.385 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12038,7 +13585,52 @@
 			)
 		)
 		(property "Part Number" "TL3342F160QG"
-			(at 229.235 127 90)
+			(at 159.385 167.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 159.385 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Tactile-Switches_E-Switch-TL3342F160QG_C2886898.html"
+			(at 159.385 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C2886898 "
+			(at 159.385 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TL3342F160QG"
+			(at 159.385 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 159.385 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12063,7 +13655,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 248.92 0)
+		(at 224.79 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12071,7 +13663,7 @@
 		(dnp no)
 		(uuid "f03f9370-bbe5-4418-9131-2badee858752")
 		(property "Reference" "#PWR034"
-			(at 130.81 255.27 0)
+			(at 224.79 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12080,7 +13672,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 252.73 0)
+			(at 224.79 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12088,7 +13680,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 248.92 0)
+			(at 224.79 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12097,7 +13689,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 248.92 0)
+			(at 224.79 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12106,7 +13698,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 248.92 0)
+			(at 224.79 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12162,7 +13754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"
 			(at 250.19 40.64 0)
 			(effects
 				(font
@@ -12171,7 +13763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 250.19 40.64 0)
 			(effects
 				(font
@@ -12181,6 +13773,60 @@
 			)
 		)
 		(property "Part Description" "Ceramic Capacitor 100nF 10% 10V X7R"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.html"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C1591"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 250.19 40.64 0)
 			(effects
 				(font
@@ -12206,7 +13852,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 109.22 233.68 90)
+		(at 205.74 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12214,7 +13860,7 @@
 		(dnp no)
 		(uuid "fb1a2803-9ef1-4e11-872e-5580a64fc3c4")
 		(property "Reference" "TP9"
-			(at 92.71 233.68 90)
+			(at 189.23 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12222,7 +13868,7 @@
 			)
 		)
 		(property "Value" "90055-AS"
-			(at 99.822 233.68 90)
+			(at 196.342 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12230,7 +13876,7 @@
 			)
 		)
 		(property "Footprint" "bwlr1f-prog:90055-AS"
-			(at 109.22 228.6 0)
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12238,8 +13884,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 109.22 228.6 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1825/90055-AS_REV1.pdf"
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12247,8 +13893,62 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 109.22 233.68 0)
+		(property "Description" "Contact Spring Loaded SMD Gold"
+			(at 205.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Digikey"
+			(at 205.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/preci-dip/90055-AS/5451878"
+			(at 205.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "1212-1855-ND"
+			(at 205.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Preci-Dip"
+			(at 205.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "90055-AS"
+			(at 205.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 205.74 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12304,7 +14004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
 			(at 158.75 55.88 0)
 			(effects
 				(font
@@ -12313,7 +14013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 158.75 55.88 0)
 			(effects
 				(font
@@ -12324,6 +14024,60 @@
 		)
 		(property "Part Description" "Resistor 10k 5% 100mW"
 			(at 158.75 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.html"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C25804"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0603WAF1002T5E"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
+			(at 158.75 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)

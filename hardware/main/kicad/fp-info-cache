@@ -1,4 +1,4 @@
-23655847382610468
+23657567961631955
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96610,6 +96610,13 @@ bwlr1f
 Battery_Pad
 
 
+0
+2
+2
+bwlr1f
+D_SOD-882
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
 0
 2
 2

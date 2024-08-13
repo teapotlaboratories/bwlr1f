@@ -4335,7 +4335,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "69b5c11b-b76a-4c00-895c-3f52e47d5761")
@@ -5175,7 +5175,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 2.286 0)
 			(layer "F.Fab")
 			(uuid "8c332af2-a36d-4b97-b1cc-0b9d168a1852")
@@ -6424,7 +6424,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "53ed2f7d-f535-407b-ab26-802c83a29d67")
@@ -6900,7 +6900,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 1.514153 0.0618 0)
 			(layer "F.Fab")
 			(uuid "f2c6a807-17f6-42fd-bd4e-6bcb14758460")
@@ -7089,7 +7089,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 -2.286 180)
 			(layer "F.Fab")
 			(uuid "d371743e-7c57-42a2-96f5-efdfa69b9331")
@@ -8857,7 +8857,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at -2.286 0 180)
 			(layer "F.Fab")
 			(uuid "a95ef23d-9278-41fb-bde3-c4b73affeb91")
@@ -9036,7 +9036,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "f90dbde8-d543-4c3a-af80-7fb9cdeaf4d9")
@@ -10263,7 +10263,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "0041fd23-fc7a-4628-9460-fb3c6f5d30bb")
@@ -11032,7 +11032,7 @@
 				)
 			)
 		)
-		(property "Value" "90055-AS"
+		(property "Value" "ProgPin"
 			(at 0 -2.301553 0)
 			(layer "F.Fab")
 			(uuid "1c499cfb-0a1c-49d3-9ef6-27ceb0e5f94a")
