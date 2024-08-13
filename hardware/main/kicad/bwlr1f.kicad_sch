@@ -8418,7 +8418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 234.95 45.72 0)
 			(effects
 				(font
@@ -8427,7 +8427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 234.95 45.72 0)
 			(effects
 				(font
@@ -8436,7 +8436,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 234.95 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 234.95 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 234.95 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 234.95 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 234.95 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 234.95 45.72 0)
 			(effects
 				(font
@@ -8542,19 +8587,20 @@
 		(dnp no)
 		(uuid "1468c398-f684-4e9f-a065-d9d08ca0e556")
 		(property "Reference" "TP1"
-			(at 30.988 217.17 90)
+			(at 29.083 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "BATT+"
-			(at 40.005 217.17 90)
+		(property "Value" "ProgPin"
+			(at 41.91 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -8566,7 +8612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 212.09 0)
 			(effects
 				(font
@@ -8575,7 +8621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 217.17 0)
 			(effects
 				(font
@@ -8584,7 +8630,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 217.17 0)
 			(effects
 				(font
@@ -8726,7 +8817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS "
 			(at 228.6 40.64 0)
 			(effects
 				(font
@@ -8781,6 +8872,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF0000T5E_C21189.html"
+			(at 228.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 228.6 40.64 0)
 			(effects
 				(font
@@ -8918,7 +9018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -8927,7 +9027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -8936,7 +9036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -8954,7 +9054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -8963,7 +9063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "-"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -8972,7 +9072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "-"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -8981,7 +9081,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "-"
+			(at 222.25 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 222.25 45.72 0)
 			(effects
 				(font
@@ -9054,7 +9163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 22uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 224.155 231.14 0)
 			(effects
 				(font
@@ -9109,6 +9218,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Chinocera-HGC1206R7226K160NSPJ_C7472972.html"
+			(at 224.155 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 224.155 231.14 0)
 			(effects
 				(font
@@ -9308,7 +9426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 55.88 246.38 0)
 			(effects
 				(font
@@ -9443,7 +9561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 177.8 93.98 0)
 			(effects
 				(font
@@ -9498,6 +9616,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 177.8 93.98 0)
 			(effects
 				(font
@@ -9572,7 +9699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 116.84 57.15 0)
 			(effects
 				(font
@@ -9627,6 +9754,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 116.84 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 116.84 57.15 0)
 			(effects
 				(font
@@ -9840,7 +9976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 332.74 51.435 0)
 			(effects
 				(font
@@ -9895,6 +10031,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 332.74 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 332.74 51.435 0)
 			(effects
 				(font
@@ -9968,7 +10113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 163.83 100.33 0)
 			(effects
 				(font
@@ -10023,6 +10168,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-0710KL_C60490.html"
+			(at 163.83 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 163.83 100.33 0)
 			(effects
 				(font
@@ -10095,7 +10249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 34.29 67.31 0)
 			(effects
 				(font
@@ -10150,6 +10304,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.html"
+			(at 34.29 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 34.29 67.31 0)
 			(effects
 				(font
@@ -10424,7 +10587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RF Ant 915 MHz Chip Solder SMD"
 			(at 251.46 40.64 0)
 			(effects
 				(font
@@ -10479,6 +10642,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.com/en/products/detail/te-connectivity-linx/ANT-915-USP410/13165344"
+			(at 251.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 251.46 40.64 0)
 			(effects
 				(font
@@ -10666,7 +10838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 49.53 246.38 0)
 			(effects
 				(font
@@ -10734,7 +10906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Cap Tant Poly 470uF 16V 2917"
 			(at 212.09 203.2 0)
 			(effects
 				(font
@@ -10789,6 +10961,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kyocera-avx/TCJ5477M016R0100E/10062646"
+			(at 212.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 212.09 203.2 0)
 			(effects
 				(font
@@ -10856,7 +11037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 226.695 121.285 0)
 			(effects
 				(font
@@ -10911,6 +11092,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.html"
+			(at 226.695 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 226.695 121.285 0)
 			(effects
 				(font
@@ -11252,7 +11442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "90mΩ ±25% 120Ω@100MHz 0402 Ferrite Beads ROHS"
 			(at 139.7 39.37 0)
 			(effects
 				(font
@@ -11307,6 +11497,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics-BLM15PD121SN1D_C76891.html"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 139.7 39.37 0)
 			(effects
 				(font
@@ -11373,7 +11572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 470nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 50.8 128.27 0)
 			(effects
 				(font
@@ -11436,6 +11635,15 @@
 				(hide yes)
 			)
 		)
+		(property "Type" "SMT"
+			(at 50.8 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aad81dd4-8e06-4af9-acc6-2a05fe528e1d")
 		)
@@ -11467,19 +11675,20 @@
 		(dnp no)
 		(uuid "531fd667-9141-42d0-aead-44c621ed0236")
 		(property "Reference" "TP3"
-			(at 30.988 224.79 90)
+			(at 29.083 224.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SWCLK"
-			(at 38.735 224.79 90)
+		(property "Value" "ProgPin"
+			(at 41.91 224.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -11491,7 +11700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 219.71 0)
 			(effects
 				(font
@@ -11500,7 +11709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 224.79 0)
 			(effects
 				(font
@@ -11509,7 +11718,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 224.79 0)
 			(effects
 				(font
@@ -11582,7 +11836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 40.64 128.27 0)
 			(effects
 				(font
@@ -11645,6 +11899,15 @@
 				(hide yes)
 			)
 		)
+		(property "Type" "SMT"
+			(at 40.64 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "978e40cc-799e-4acf-b3f8-f37f88fd4f6c")
 		)
@@ -11676,19 +11939,20 @@
 		(dnp no)
 		(uuid "5a379d16-3dd1-436c-9bf8-2f1a8419e7bd")
 		(property "Reference" "TP8"
-			(at 31.115 234.95 90)
+			(at 29.21 234.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 40.005 234.95 90)
+		(property "Value" "ProgPin"
+			(at 41.91 234.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -11700,7 +11964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 229.87 0)
 			(effects
 				(font
@@ -11709,7 +11973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 234.95 0)
 			(effects
 				(font
@@ -11718,7 +11982,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 234.95 0)
 			(effects
 				(font
@@ -11788,7 +12097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 132.08 64.77 0)
 			(effects
 				(font
@@ -11843,6 +12152,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.html"
+			(at 132.08 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 132.08 64.77 0)
 			(effects
 				(font
@@ -11987,7 +12305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 177.8 82.55 0)
 			(effects
 				(font
@@ -12042,6 +12360,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-0710KL_C60490.html"
+			(at 177.8 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 177.8 82.55 0)
 			(effects
 				(font
@@ -12108,7 +12435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2302171010_Micro-Crystal-RV-3028-C7-32-768kHz-1ppm-TA-QC_C3019759.pdf"
 			(at 345.44 135.89 0)
 			(effects
 				(font
@@ -12118,6 +12445,60 @@
 			)
 		)
 		(property "Description" "Realtime Clock/Calendar I2C Interface, Extreme Low Power, 1.1 V to 5.5 V, MicroCrystal C7"
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Real-Time-Clocks_Micro-Crystal-RV-3028-C7-32-768kHz-1ppm-TA-QC_C3019759.html"
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "C3019759"
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Micro Crystal"
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RV-3028-C7 32.768kHz 1ppm TA QC "
+			(at 345.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 345.44 135.89 0)
 			(effects
 				(font
@@ -12203,7 +12584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 226.06 242.57 0)
 			(effects
 				(font
@@ -12258,6 +12639,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.html"
+			(at 226.06 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 226.06 242.57 0)
 			(effects
 				(font
@@ -12506,19 +12896,20 @@
 		(dnp no)
 		(uuid "664c3a3c-3f47-4011-95ed-54ac77008186")
 		(property "Reference" "TP6"
-			(at 30.988 232.41 90)
+			(at 29.083 232.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "BOOT"
-			(at 39.37 232.41 90)
+		(property "Value" "ProgPin"
+			(at 41.91 232.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -12530,7 +12921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 227.33 0)
 			(effects
 				(font
@@ -12539,7 +12930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 232.41 0)
 			(effects
 				(font
@@ -12548,7 +12939,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 232.41 0)
 			(effects
 				(font
@@ -12618,7 +13054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "90mΩ ±25% 120Ω@100MHz 0402 Ferrite Beads ROHS"
 			(at 139.7 59.69 0)
 			(effects
 				(font
@@ -12673,6 +13109,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics-BLM15PD121SN1D_C76891.html"
+			(at 139.7 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 139.7 59.69 0)
 			(effects
 				(font
@@ -12943,7 +13388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -12952,7 +13397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -12970,7 +13415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -12979,7 +13424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -12988,7 +13433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "-"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -12997,7 +13442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "-"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -13006,7 +13451,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "-"
+			(at 248.92 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -13349,7 +13803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RAK3172-SIP"
 			(at 119.38 116.84 0)
 			(effects
 				(font
@@ -13404,6 +13858,15 @@
 			)
 		)
 		(property "Distributor Link" "Contact inquiry@rakwireless.com for SKU: 306039"
+			(at 119.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 119.38 116.84 0)
 			(effects
 				(font
@@ -13683,7 +14146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 212.09 212.09 0)
 			(effects
 				(font
@@ -13738,6 +14201,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KO8NQNC_C962136.html"
+			(at 212.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 212.09 212.09 0)
 			(effects
 				(font
@@ -13810,7 +14282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "90mΩ ±25% 120Ω@100MHz 0402 Ferrite Beads ROHS"
 			(at 33.02 119.38 0)
 			(effects
 				(font
@@ -13873,6 +14345,15 @@
 				(hide yes)
 			)
 		)
+		(property "Type" "SMT"
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f2cb13fa-b15e-48ed-b36b-3d3a14b328a9")
 		)
@@ -13898,19 +14379,20 @@
 		(dnp no)
 		(uuid "88dbd6fe-5a99-4074-9956-c9717aea1f4a")
 		(property "Reference" "TP2"
-			(at 30.988 222.25 90)
+			(at 29.083 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "TX2"
-			(at 40.005 222.25 90)
+		(property "Value" "ProgPin"
+			(at 41.91 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -13922,7 +14404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 217.17 0)
 			(effects
 				(font
@@ -13931,7 +14413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 222.25 0)
 			(effects
 				(font
@@ -13940,7 +14422,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 222.25 0)
 			(effects
 				(font
@@ -14222,7 +14749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -14285,6 +14812,15 @@
 				(hide yes)
 			)
 		)
+		(property "Type" "SMT"
+			(at 62.23 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7382388-acf5-430a-a07a-0853647b6d73")
 		)
@@ -14316,19 +14852,20 @@
 		(dnp no)
 		(uuid "9509d57a-8d75-4d3a-8b9f-99eb747379ad")
 		(property "Reference" "TP4"
-			(at 30.988 227.33 90)
+			(at 29.083 227.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SWDIO"
-			(at 38.735 227.33 90)
+		(property "Value" "ProgPin"
+			(at 41.91 227.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -14340,7 +14877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 222.25 0)
 			(effects
 				(font
@@ -14349,7 +14886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 227.33 0)
 			(effects
 				(font
@@ -14358,7 +14895,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 227.33 0)
 			(effects
 				(font
@@ -14395,19 +14977,20 @@
 		(dnp no)
 		(uuid "95615dc2-1306-4f72-a4a2-efbf5be05e1a")
 		(property "Reference" "TP5"
-			(at 30.988 229.87 90)
+			(at 29.083 229.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "RST"
-			(at 40.005 229.87 90)
+		(property "Value" "ProgPin"
+			(at 41.91 229.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -14419,7 +15002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 224.79 0)
 			(effects
 				(font
@@ -14428,7 +15011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 229.87 0)
 			(effects
 				(font
@@ -14437,7 +15020,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 229.87 0)
 			(effects
 				(font
@@ -14507,7 +15135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 34.29 45.72 0)
 			(effects
 				(font
@@ -14562,6 +15190,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 34.29 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 34.29 45.72 0)
 			(effects
 				(font
@@ -14636,7 +15273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 347.98 51.435 0)
 			(effects
 				(font
@@ -14691,6 +15328,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 347.98 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 347.98 51.435 0)
 			(effects
 				(font
@@ -14976,7 +15622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 363.22 78.105 0)
 			(effects
 				(font
@@ -15031,6 +15677,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-0710KL_C60490.html"
+			(at 363.22 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 363.22 78.105 0)
 			(effects
 				(font
@@ -15159,7 +15814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 93.98 246.38 0)
 			(effects
 				(font
@@ -15193,19 +15848,20 @@
 		(dnp no)
 		(uuid "a96c41f4-1a15-4b81-833f-08edf548af9e")
 		(property "Reference" "TP1"
-			(at 30.988 219.71 90)
+			(at 29.083 219.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "RX2"
-			(at 40.005 219.71 90)
+		(property "Value" "ProgPin"
+			(at 41.91 219.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -15217,7 +15873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 214.63 0)
 			(effects
 				(font
@@ -15226,7 +15882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 219.71 0)
 			(effects
 				(font
@@ -15235,7 +15891,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 219.71 0)
 			(effects
 				(font
@@ -15502,7 +16203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15511,7 +16212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15520,7 +16221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15538,7 +16239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15547,7 +16248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "-"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15556,7 +16257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "-"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15565,7 +16266,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "-"
+			(at 358.14 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 358.14 200.66 0)
 			(effects
 				(font
@@ -15706,7 +16416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 44.45 107.95 0)
 			(effects
 				(font
@@ -15761,6 +16471,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 44.45 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 44.45 107.95 0)
 			(effects
 				(font
@@ -16051,7 +16770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 350.52 119.38 0)
 			(effects
 				(font
@@ -16106,6 +16825,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 350.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 350.52 119.38 0)
 			(effects
 				(font
@@ -16174,7 +16902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 240.03 243.84 0)
 			(effects
 				(font
@@ -16229,6 +16957,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-071KL_C106235.html"
+			(at 240.03 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 240.03 243.84 0)
 			(effects
 				(font
@@ -16373,7 +17110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "15uH ±20% 120mA 950mΩ 0805 Inductors (SMD) ROHS"
 			(at 68.58 124.46 0)
 			(effects
 				(font
@@ -16428,6 +17165,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Inductors-SMD_TDK-MLZ2012M150WT000_C383402.html"
+			(at 68.58 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 68.58 124.46 0)
 			(effects
 				(font
@@ -16571,7 +17317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 129.54 44.45 0)
 			(effects
 				(font
@@ -16626,6 +17372,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.html"
+			(at 129.54 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 129.54 44.45 0)
 			(effects
 				(font
@@ -16765,7 +17520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 99.06 69.85 0)
 			(effects
 				(font
@@ -16820,6 +17575,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-074K7L_C105871.html"
+			(at 99.06 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 99.06 69.85 0)
 			(effects
 				(font
@@ -16895,7 +17659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Battery clip Nickel -25℃~+85℃ Phosphor Bronze CR2032 SMD Button And Strip Battery Connector ROHS"
 			(at 362.585 228.6 0)
 			(effects
 				(font
@@ -16950,6 +17714,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-MY-2032-12_C964833.html"
+			(at 362.585 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 362.585 228.6 0)
 			(effects
 				(font
@@ -17088,7 +17861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 363.22 62.865 0)
 			(effects
 				(font
@@ -17143,6 +17916,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-0710KL_C60490.html"
+			(at 363.22 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 363.22 62.865 0)
 			(effects
 				(font
@@ -17218,7 +18000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS "
 			(at 175.26 264.16 0)
 			(effects
 				(font
@@ -17273,6 +18055,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-07100KL_C60491.html"
+			(at 175.26 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 175.26 264.16 0)
 			(effects
 				(font
@@ -17623,7 +18414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS "
 			(at 220.345 263.525 0)
 			(effects
 				(font
@@ -17678,6 +18469,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-07100KL_C60491.html"
+			(at 220.345 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 220.345 263.525 0)
 			(effects
 				(font
@@ -17806,7 +18606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 62.23 246.38 0)
 			(effects
 				(font
@@ -17929,7 +18729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 87.63 246.38 0)
 			(effects
 				(font
@@ -18069,7 +18869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 232.41 243.84 0)
 			(effects
 				(font
@@ -18124,6 +18924,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-071KL_C106235.html"
+			(at 232.41 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 232.41 243.84 0)
 			(effects
 				(font
@@ -18318,7 +19127,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 68.58 246.38 0)
 			(effects
 				(font
@@ -18669,7 +19478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 44.45 45.72 0)
 			(effects
 				(font
@@ -18724,6 +19533,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 44.45 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 44.45 45.72 0)
 			(effects
 				(font
@@ -18870,7 +19688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Coin Cell Battery Life Booster"
 			(at 198.12 241.3 0)
 			(effects
 				(font
@@ -18925,6 +19743,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/NBM7100ABQX/19109915"
+			(at 198.12 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 198.12 241.3 0)
 			(effects
 				(font
@@ -19036,7 +19863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Fixed Ind 15uH 850mA 210 mOhm SMD"
 			(at 194.945 215.265 0)
 			(effects
 				(font
@@ -19091,6 +19918,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74404042150/4865654"
+			(at 194.945 215.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 194.945 215.265 0)
 			(effects
 				(font
@@ -19163,7 +19999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 170.18 234.95 0)
 			(effects
 				(font
@@ -19218,6 +20054,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.html"
+			(at 170.18 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 170.18 234.95 0)
 			(effects
 				(font
@@ -19293,7 +20138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8Kbit 1MHz I2C SOT-23-5 EEPROM ROHS"
 			(at 231.775 132.715 0)
 			(effects
 				(font
@@ -19348,6 +20193,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/EEPROM_Zetta-ZD24C08A-STGMT_C2896640.html"
+			(at 231.775 132.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 231.775 132.715 0)
 			(effects
 				(font
@@ -19479,7 +20333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 74.93 246.38 0)
 			(effects
 				(font
@@ -19546,7 +20400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 34.29 87.63 0)
 			(effects
 				(font
@@ -19601,6 +20455,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 34.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 34.29 87.63 0)
 			(effects
 				(font
@@ -19741,7 +20604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Battery clip Nickel -25℃~+85℃ Phosphor Bronze CR2032 SMD Button And Strip Battery Connector ROHS"
 			(at 344.17 228.6 0)
 			(effects
 				(font
@@ -19796,6 +20659,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-MY-2032-12_C964833.html"
+			(at 344.17 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 344.17 228.6 0)
 			(effects
 				(font
@@ -19865,7 +20737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 44.45 87.63 0)
 			(effects
 				(font
@@ -19920,6 +20792,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html"
+			(at 44.45 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 44.45 87.63 0)
 			(effects
 				(font
@@ -19995,7 +20876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Sensor Gas/Hum/Pres/Temp I2C SPI"
 			(at 340.36 70.485 0)
 			(effects
 				(font
@@ -20050,6 +20931,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.com/en/products/detail/bosch-sensortec/BME688/13681261"
+			(at 340.36 70.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 340.36 70.485 0)
 			(effects
 				(font
@@ -20211,7 +21101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 34.29 107.95 0)
 			(effects
 				(font
@@ -20266,6 +21156,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 34.29 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 34.29 107.95 0)
 			(effects
 				(font
@@ -20459,7 +21358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 81.28 246.38 0)
 			(effects
 				(font
@@ -20564,19 +21463,20 @@
 		(dnp no)
 		(uuid "ff00a546-97d7-44d4-aaa3-0f440c0455b5")
 		(property "Reference" "TP8"
-			(at 31.115 214.63 90)
+			(at 29.21 214.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "3V0"
-			(at 40.005 214.63 90)
+		(property "Value" "ProgPin"
+			(at 41.91 214.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
@@ -20588,7 +21488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "-"
 			(at 46.99 209.55 0)
 			(effects
 				(font
@@ -20597,7 +21497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 46.99 214.63 0)
 			(effects
 				(font
@@ -20606,7 +21506,52 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
+			(at 46.99 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "-"
+			(at 46.99 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 46.99 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 46.99 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 46.99 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 46.99 214.63 0)
 			(effects
 				(font
@@ -20679,7 +21624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 101.6 69.85 0)
 			(effects
 				(font
@@ -20734,6 +21679,15 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-074K7L_C105871.html"
+			(at 101.6 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMT"
 			(at 101.6 69.85 0)
 			(effects
 				(font

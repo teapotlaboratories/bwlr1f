@@ -348,7 +348,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -649,7 +649,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -726,6 +726,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4c50b164-2cfa-4dd4-bbc0-438b7aadbd11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe7187db-8902-47f1-bf4b-6bd093dc7512")
 			(effects
 				(font
 					(size 1 1)
@@ -929,7 +942,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Battery clip Nickel -25℃~+85℃ Phosphor Bronze CR2032 SMD Button And Strip Battery Connector ROHS"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1006,6 +1019,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ca67fda-ae80-451b-bdec-e4be22f1f437")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbdb9135-c525-4c29-9610-2660128b00c1")
 			(effects
 				(font
 					(size 1 1)
@@ -1444,7 +1470,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1827,7 +1853,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2116,7 +2142,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2128,7 +2154,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2140,11 +2166,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 264.539847 -44.223847 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aeb3c5cf-55e9-4d36-ba7a-f3fb9f4a4625")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f017bd2b-14de-4f57-8d29-5dcc0ec7bb16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b86d1271-6abd-428e-8396-fd30a76c4805")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d11859b-1e97-4818-a0e4-403f3bedbde0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8cba168-6e99-4082-8a89-18d49aa410e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baf056c4-906c-4049-a18a-0223c125d32a")
 			(effects
 				(font
 					(size 1 1)
@@ -2351,7 +2442,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "15uH ±20% 120mA 950mΩ 0805 Inductors (SMD) ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2428,6 +2519,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b885956d-fe4b-4cc1-81d6-293d6e52551f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "196ace85-b773-4db6-9fcf-33a2292553a6")
 			(effects
 				(font
 					(size 1 1)
@@ -2622,7 +2726,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2302171010_Micro-Crystal-RV-3028-C7-32-768kHz-1ppm-TA-QC_C3019759.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2642,6 +2746,84 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c81922d-40d8-431f-bd36-61ddd9d4e88c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/Real-Time-Clocks_Micro-Crystal-RV-3028-C7-32-768kHz-1ppm-TA-QC_C3019759.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9bf913e-6acb-49cd-bc45-d335500b34db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "C3019759"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa736340-38b4-482a-a6f3-7c7ae897d004")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Micro Crystal"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "578eec61-500e-4aa4-80d7-fff864afac56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RV-3028-C7 32.768kHz 1ppm TA QC "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89fd9b14-1743-477a-a45f-3c8acde023d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fc43205-b6f3-4350-96cb-0e77fc25d629")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2928,7 +3110,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS "
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3005,6 +3187,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3057291f-b2c0-4859-a3b5-be067d2a9f27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31051ec9-a751-4e41-8cd2-a46cca5340e8")
 			(effects
 				(font
 					(size 1 1)
@@ -3213,7 +3408,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -3291,6 +3486,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f749d74-3047-47ed-9d61-aa3c82614d15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b79f7c3-8fb7-4d73-b7a5-2c3bcb7bc3da")
 			(effects
 				(font
 					(size 1 1)
@@ -3494,7 +3702,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RF Ant 915 MHz Chip Solder SMD"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3571,6 +3779,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0d1ff822-a5e6-413b-9890-666e0213d5b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f844bc96-5846-4587-b79e-41d5c4fc9b89")
 			(effects
 				(font
 					(size 1 1)
@@ -3842,7 +4063,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3854,7 +4075,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3866,7 +4087,7 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "-"
 			(at 260.089847 -39.773847 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3878,7 +4099,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "-"
 			(at 260.089847 -39.773847 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3890,7 +4111,7 @@
 				)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "-"
 			(at 260.089847 -39.773847 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3902,7 +4123,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 260.089847 -39.773847 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3914,7 +4135,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 260.089847 -39.773847 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3931,6 +4152,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed990078-bb86-4101-8b89-b9a149a802b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "973a4211-da0d-4f0d-a862-0d25065f413d")
 			(effects
 				(font
 					(size 1 1)
@@ -4101,7 +4335,7 @@
 				)
 			)
 		)
-		(property "Value" "RST"
+		(property "Value" "90055-AS"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "69b5c11b-b76a-4c00-895c-3f52e47d5761")
@@ -4124,7 +4358,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4136,7 +4370,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4148,11 +4382,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 253.119847 -50.643847 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d38a8f9-dbb5-45f4-85a5-07fb80bc1356")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "468873f8-891b-457b-92e5-9e4e54c1a0a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "971a08ab-599a-47be-956e-5036cf2e9213")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9b3181a-c8c3-4dcd-8957-46ee1b488afb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57ec82a1-4e05-4e9f-8b4a-4e9ae18718cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27067dd1-faf2-4d49-a618-e8f8b709f588")
 			(effects
 				(font
 					(size 1 1)
@@ -4249,7 +4548,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4326,6 +4625,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb4f3330-7280-41b2-9e39-1568f91ae7b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed3c74da-a7d4-4093-bf1e-47576f45292c")
 			(effects
 				(font
 					(size 1 1)
@@ -4530,7 +4842,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Sensor Gas/Hum/Pres/Temp I2C SPI"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4607,6 +4919,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85da91ef-cc21-46d1-a12b-ae5699f72c8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbc6d897-9ada-457d-8c54-78b590c535b4")
 			(effects
 				(font
 					(size 1 1)
@@ -4850,7 +5175,7 @@
 				)
 			)
 		)
-		(property "Value" "BATT+"
+		(property "Value" "90055-AS"
 			(at 0 2.286 0)
 			(layer "F.Fab")
 			(uuid "8c332af2-a36d-4b97-b1cc-0b9d168a1852")
@@ -4873,7 +5198,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4885,7 +5210,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4897,11 +5222,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b44b94d-028a-4991-9234-66a3b483da82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbcc079c-6253-4735-8f73-2e37db8c0b4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3ee8e5d-7c65-4da3-88e3-9089476cab8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcee7523-5779-44f5-b1aa-f6f764a3b1dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7d662c0-4321-4b67-aed8-2d54497f6fd2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91600399-2139-4945-b50c-4bf8c3cb8f76")
 			(effects
 				(font
 					(size 1 1)
@@ -5001,7 +5391,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5085,6 +5475,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8979ad6d-69ad-468c-aa6e-4984e7e44e28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5718b963-5489-4ea6-97fc-4e6adc0d9d3a")
 			(effects
 				(font
 					(size 1 1)
@@ -5372,7 +5775,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5755,7 +6158,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6021,7 +6424,7 @@
 				)
 			)
 		)
-		(property "Value" "BOOT"
+		(property "Value" "90055-AS"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "53ed2f7d-f535-407b-ab26-802c83a29d67")
@@ -6044,7 +6447,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6056,7 +6459,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6068,11 +6471,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 255.209847 -52.753847 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "562bd472-aac4-4cf7-9585-cb17f85c46b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fb673b7-0a25-4d47-a4bf-4e4c9762cfc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a5ea948-fe88-4aa5-b288-b25dc6b7cee7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed6c58a5-a9c9-4e8c-9961-fbfd04a08ea3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8356901d-e6e9-421b-bc6b-f72b6e406807")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44447bbc-e629-4100-90d7-cab722e7debc")
 			(effects
 				(font
 					(size 1 1)
@@ -6171,7 +6639,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -6249,6 +6717,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "134b6b18-e700-43ca-9bb3-d7bde91ca74b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38fbfc73-7046-4bd4-a0ed-55962c15cb84")
 			(effects
 				(font
 					(size 1 1)
@@ -6419,7 +6900,7 @@
 				)
 			)
 		)
-		(property "Value" "RX2"
+		(property "Value" "90055-AS"
 			(at 1.514153 0.0618 0)
 			(layer "F.Fab")
 			(uuid "f2c6a807-17f6-42fd-bd4e-6bcb14758460")
@@ -6442,7 +6923,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6454,7 +6935,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6466,11 +6947,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e43a65af-9cad-4126-8936-2f6318a58d4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "234efe2d-9309-4d30-98ed-23afbfbaee99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db056602-2199-4730-a2f7-14ef8f119008")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e04e16fe-66fd-41e3-9563-dd83fefbf3ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e20c2052-6a41-4a32-8c88-433a907de546")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "477eb94d-d8b0-4959-921b-fde5f1a1a135")
 			(effects
 				(font
 					(size 1 1)
@@ -6543,7 +7089,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "90055-AS"
 			(at 0 -2.286 180)
 			(layer "F.Fab")
 			(uuid "d371743e-7c57-42a2-96f5-efdfa69b9331")
@@ -6566,7 +7112,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6578,7 +7124,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6590,11 +7136,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 258.083694 239.556 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c5284a21-f441-4d12-a926-aa22cc4d9fd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e129fc5e-be8f-473d-b695-65f61cc496f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f3aaf46-705e-4a07-a3c1-9366ace8a671")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72833d47-9ed9-42d5-8b0b-839c2ee6629b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8c20edb-0269-4c72-9263-fe0d325c8d1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e34310cb-35a4-434a-b512-80a57724f57c")
 			(effects
 				(font
 					(size 1 1)
@@ -6702,7 +7313,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 470nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6779,6 +7390,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d680844f-d4c0-4394-8fef-451654af3d2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb5902ea-dd27-4606-960d-441b3765a6fb")
 			(effects
 				(font
 					(size 1 1)
@@ -6984,7 +7608,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RAK3172-SIP"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7061,6 +7685,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "af93f943-8711-41cd-b000-683be2119fc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "539043e5-0ebb-4bab-a133-f1a8956a1e5a")
 			(effects
 				(font
 					(size 1 1)
@@ -7960,7 +8597,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8037,6 +8674,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "88883bb9-2d99-4760-ab7a-6fb194466302")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e47c07e-05be-48b2-85b3-2bd46751e5f2")
 			(effects
 				(font
 					(size 1 1)
@@ -8207,7 +8857,7 @@
 				)
 			)
 		)
-		(property "Value" "SWDIO"
+		(property "Value" "90055-AS"
 			(at -2.286 0 180)
 			(layer "F.Fab")
 			(uuid "a95ef23d-9278-41fb-bde3-c4b73affeb91")
@@ -8230,7 +8880,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8242,7 +8892,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8254,11 +8904,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d6b19e9e-a06b-405a-9572-1187f423f84f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3082a9b-dfd7-4ef8-9dd5-4d3fde4c4ac9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef55139d-d3c6-4996-9b39-dc9a3a442c1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd0dc616-f4f1-4907-abc5-3fc21e11c280")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b12c616-eb15-4dd7-8f1c-d367b6bef321")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abaf4d58-ef1d-4a32-88fc-3c6ed7963bf6")
 			(effects
 				(font
 					(size 1 1)
@@ -8321,7 +9036,7 @@
 				)
 			)
 		)
-		(property "Value" "SWCLK"
+		(property "Value" "90055-AS"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "f90dbde8-d543-4c3a-af80-7fb9cdeaf4d9")
@@ -8344,7 +9059,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8356,7 +9071,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8368,11 +9083,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 258.083694 222.956 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9261e47b-1b0d-4a96-a69f-3223a752c442")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1df43c14-492d-49ae-a926-14a886603a38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fca95163-69fb-42c1-b63b-e4f09738aaed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "109f3bad-4945-4b01-bce2-e2a85a12700e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fbec537-f703-4c12-875b-d8bf07b695e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6edd5bdc-7f57-4465-b9f4-5a4c1cf62dd8")
 			(effects
 				(font
 					(size 1 1)
@@ -8482,7 +9262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8Kbit 1MHz I2C SOT-23-5 EEPROM ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -8560,6 +9340,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9279131d-ddb7-49ae-bd64-ee6e09f22f2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fef3e37c-4de1-4a67-bdb3-150e1628334d")
 			(effects
 				(font
 					(size 1 1)
@@ -8909,7 +9702,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9210,7 +10003,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9287,6 +10080,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "803473f3-df81-48c7-a179-9fa0d5bb7e87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b90cccd2-5f91-45e6-8e5a-0c54505efcdf")
 			(effects
 				(font
 					(size 1 1)
@@ -9457,7 +10263,7 @@
 				)
 			)
 		)
-		(property "Value" "3V0"
+		(property "Value" "90055-AS"
 			(at 0 -2.286 0)
 			(layer "F.Fab")
 			(uuid "0041fd23-fc7a-4628-9460-fb3c6f5d30bb")
@@ -9480,7 +10286,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9492,7 +10298,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9504,11 +10310,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 299.563694 202.476 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d427432-1c38-4131-8693-a5c13b6c7c45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a86d6e4-caba-47cc-bdf8-8c93999e566e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d63b8a6a-0c39-45ea-b360-1d225b65d865")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f7ce34c-7573-4db5-8632-a7107f587db0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a63aa019-88e8-4289-a788-0e0301abd428")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90cd7999-1a78-472f-b1c2-e3bf47180a9a")
 			(effects
 				(font
 					(size 1 1)
@@ -9616,7 +10487,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9693,6 +10564,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e9b5f38b-c8ac-4b69-9bd4-25d0b37f0c89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5226b5ab-3ddf-4ac4-95d8-c820b5d30c59")
 			(effects
 				(font
 					(size 1 1)
@@ -10148,7 +11032,7 @@
 				)
 			)
 		)
-		(property "Value" "TX2"
+		(property "Value" "90055-AS"
 			(at 0 -2.301553 0)
 			(layer "F.Fab")
 			(uuid "1c499cfb-0a1c-49d3-9ef6-27ceb0e5f94a")
@@ -10171,7 +11055,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10183,7 +11067,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10195,11 +11079,76 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 13.393847 244.689847 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4fc4a4f4-e3fe-4763-a2ff-da7a382f66bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "893273f8-6fc5-4b21-9384-491ca1e1d137")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a22f5c80-bb22-4133-a644-9d8fde651b7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Distributor Part Number" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b110e710-fda7-4fee-960c-49f515b481c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d1921f7-b3c7-4ba3-8241-0d0bee51430f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24e428bd-817b-4665-aabf-20b674f2a4ce")
 			(effects
 				(font
 					(size 1 1)
@@ -10307,7 +11256,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10384,6 +11333,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6f19c955-9063-4040-b009-acb1c4247a8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c1fd85c-01e8-42bd-8688-cffda2769736")
 			(effects
 				(font
 					(size 1 1)
@@ -10671,7 +11633,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11054,7 +12016,7 @@
 				)
 			)
 		)
-		(property "Type" "SMD"
+		(property "Type" "SMT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11355,7 +12317,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11432,6 +12394,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65c036b1-5847-46fe-a508-25ad53582a48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fc02da6-2987-4716-a8d2-84ccebb8ccb2")
 			(effects
 				(font
 					(size 1 1)
@@ -11639,7 +12614,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11721,6 +12696,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "448c9c7a-0c93-4d35-9076-7b903f2c2aec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2a35ec3e-c1ad-46d7-a392-3f23c8622b82")
 			(effects
 				(font
 					(size 1 1)
@@ -11932,7 +12921,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12015,6 +13004,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "72de87f3-ddec-4b76-9bc0-f6415b6d4c9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bae8f91d-a36d-426e-b093-53769b4817a4")
 			(effects
 				(font
 					(size 1 1)
@@ -12224,7 +13227,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12306,6 +13309,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7c7fa834-a1d7-4071-bb30-0c5587e3363b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2eaedfb1-29b7-42ad-a726-73fe4621e164")
 			(effects
 				(font
 					(size 1 1)
@@ -12515,7 +13532,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS "
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12597,6 +13614,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9f66d0ae-d9d7-4e1f-bf5c-8ce7a35cba45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "159ed8b2-8e26-40e3-813c-ffbe67a1b551")
 			(effects
 				(font
 					(size 1 1)
@@ -12806,7 +13837,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12888,6 +13919,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "65269c9f-e4c1-4979-8728-bdc0337d0a38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "390727f0-674b-45f3-ae2f-fd2984288c3c")
 			(effects
 				(font
 					(size 1 1)
@@ -13099,7 +14144,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -13182,6 +14227,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "77fccedf-4b73-497f-8312-fa2e15b47ba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5d36d0bd-3c5d-4b6f-abe3-0a7d94f170f0")
 			(effects
 				(font
 					(size 1 1)
@@ -13392,7 +14451,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Cap Tant Poly 470uF 16V 2917"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13474,6 +14533,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c9777038-1334-4d69-a4cf-0ae51bfa0a24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be485949-41ec-4fb4-a445-5ce7edb67b00")
 			(effects
 				(font
 					(size 1 1)
@@ -13691,7 +14764,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13703,7 +14776,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13715,7 +14788,7 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "-"
 			(at 298.883694 235.496 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13728,7 +14801,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "-"
 			(at 298.883694 235.496 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13741,7 +14814,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "-"
 			(at 298.883694 235.496 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13754,7 +14827,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 298.883694 235.496 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13767,7 +14840,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 298.883694 235.496 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13785,6 +14858,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5cdd2ef2-e1c8-4758-bbc3-10eb9e74b74c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f5fdfd06-8d9a-45fb-ac21-89c54fcf0ff7")
 			(effects
 				(font
 					(size 1 1)
@@ -14088,7 +15175,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14170,6 +15257,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4563bc78-cd6e-4bd0-bbce-0e8a9bb446ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "28a68af2-3902-4179-97a3-6aa9521cfab1")
 			(effects
 				(font
 					(size 1 1)
@@ -14381,7 +15482,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Coin Cell Battery Life Booster"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14463,6 +15564,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6d73c370-352b-4e70-9feb-aa4489f5c718")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "12941bb3-94c5-42e9-8d2d-f8d5245fe78d")
 			(effects
 				(font
 					(size 1 1)
@@ -14849,7 +15964,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "90mΩ ±25% 120Ω@100MHz 0402 Ferrite Beads ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14931,6 +16046,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d1822d34-33b9-45ce-a292-7dd92f4025cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d42e4b1d-8df6-4c92-85a8-1fb8c1c50360")
 			(effects
 				(font
 					(size 1 1)
@@ -15124,7 +16253,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -15207,6 +16336,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1232345c-59f8-4186-847c-7c0c59b18269")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c235fa27-d972-4937-97a2-3be544c1253a")
 			(effects
 				(font
 					(size 1 1)
@@ -15417,7 +16560,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "90mΩ ±25% 120Ω@100MHz 0402 Ferrite Beads ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15499,6 +16642,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b73bf39f-64d3-4070-bd56-9882ea58967f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "79062bcf-06d7-424b-bdd9-e1ba19a39d6a")
 			(effects
 				(font
 					(size 1 1)
@@ -15692,7 +16849,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -15775,6 +16932,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b5ebce50-24b0-47ba-ae93-5bbdbe23f8cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1078aace-307f-4b7b-a28b-aeaff6bace92")
 			(effects
 				(font
 					(size 1 1)
@@ -15986,7 +17157,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -16069,6 +17240,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0efe5064-e215-4644-97b6-64dece2de4b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f721bf02-5690-4a11-b42d-375362c273b2")
 			(effects
 				(font
 					(size 1 1)
@@ -16283,7 +17468,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16373,6 +17558,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f0aa2663-7359-4fe1-9787-ffe2da95dd33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5d1cede-bef4-4c5e-91fa-278bd445e2e0")
 			(effects
 				(font
 					(size 1 1)
@@ -16584,7 +17783,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -16667,6 +17866,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "24c7d01e-c3de-405a-a6a5-703201ca3e01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eced9543-39e9-4c62-b50f-188ad9ffd846")
 			(effects
 				(font
 					(size 1 1)
@@ -16876,7 +18089,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16958,6 +18171,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "72adc295-5ac1-46f6-9fb7-032bd7403dbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "55c69f94-2fe5-431c-921a-1409c1aebaab")
 			(effects
 				(font
 					(size 1 1)
@@ -17169,7 +18396,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -17252,6 +18479,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "84b0dad6-d2f7-488a-a97a-008e98721461")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "02c2db8a-9fd3-483c-96a5-34a23cf09fb1")
 			(effects
 				(font
 					(size 1 1)
@@ -17449,7 +18690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17461,7 +18702,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DNP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17473,7 +18714,7 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "-"
 			(at 12.724847 244.450847 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -17486,7 +18727,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "-"
 			(at 12.724847 244.450847 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -17499,7 +18740,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Distributor Part Number" ""
+		(property "Distributor Part Number" "-"
 			(at 12.724847 244.450847 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -17512,7 +18753,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 12.724847 244.450847 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -17525,7 +18766,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "-"
 			(at 12.724847 244.450847 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -17543,6 +18784,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c77c6ea2-c520-4719-9d44-3aa9a4ee6c20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "381c92da-cd75-4c86-a449-c842308bded9")
 			(effects
 				(font
 					(size 1 1)
@@ -17642,7 +18897,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17724,6 +18979,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bf6f4b10-5603-4901-832b-a01ba559dafe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c059d1d8-0032-49c9-a795-3e200e5f5393")
 			(effects
 				(font
 					(size 1 1)
@@ -17935,7 +19204,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -18018,6 +19287,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b335bff5-7aae-4197-a6aa-59456b5774cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "446507c6-469d-4fe9-949a-c82d4e881e7b")
 			(effects
 				(font
 					(size 1 1)
@@ -18225,7 +19508,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Battery clip Nickel -25℃~+85℃ Phosphor Bronze CR2032 SMD Button And Strip Battery Connector ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18307,6 +19590,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7b33eec7-f15d-4031-a619-e3c652f2d38a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5b2c85e6-ae3e-49d0-9806-9ad1fe46f17b")
 			(effects
 				(font
 					(size 1 1)
@@ -18669,7 +19966,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Fixed Ind 15uH 850mA 210 mOhm SMD"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18751,6 +20048,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "667f886b-b5c9-4636-ae93-4868aaa1c77d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1e1da1d3-91bf-4669-99e2-504e57455ba5")
 			(effects
 				(font
 					(size 1 1)
@@ -19091,7 +20402,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19173,6 +20484,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d0dc7c7d-1d92-4171-ab45-d8382d926ecc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8fd6fd36-7234-4085-9191-478738871496")
 			(effects
 				(font
 					(size 1 1)
@@ -19384,7 +20709,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -19467,6 +20792,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5ecea783-890a-41e3-9b69-79ab1a0fae70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0b35f306-d097-4d31-b05c-55fea3465297")
 			(effects
 				(font
 					(size 1 1)
@@ -19676,7 +21015,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19758,6 +21097,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2d2334e3-4216-4d9d-812a-e7edd745cb0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "94042d34-a000-4e30-9efb-c1b578c8aab5")
 			(effects
 				(font
 					(size 1 1)
@@ -19967,7 +21320,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 22uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20049,6 +21402,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ccf7f1af-ce33-40b4-8583-3a902de1fbc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4d6306f9-2621-46e0-b8fb-4eee39b60bc8")
 			(effects
 				(font
 					(size 1 1)
@@ -20260,7 +21627,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20343,6 +21710,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ac901d76-fe65-4f2a-80a7-16c3b4b0a802")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b0d98a59-b8c6-4ed1-9c8a-9ab208f4242a")
 			(effects
 				(font
 					(size 1 1)
@@ -20553,7 +21934,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "90mΩ ±25% 120Ω@100MHz 0402 Ferrite Beads ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20635,6 +22016,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bebfc08c-d077-4977-b5ab-b4664d18b987")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "SMT"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "82838621-7372-44f1-9d82-20b3d1d31c03")
 			(effects
 				(font
 					(size 1 1)
@@ -24535,31 +25930,31 @@
 		(uuid "9ec50482-fc83-4fe5-9413-d4e497077e00")
 	)
 	(segment
-		(start 135.695999 109.031)
-		(end 135.925999 108.801)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 18)
-		(uuid "38a37c15-7b1c-4f7d-9d32-fa825ebeab0e")
-	)
-	(segment
-		(start 135.695999 109.389)
-		(end 135.695999 109.031)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 18)
-		(uuid "960cf0ed-f127-4049-a49f-3caca1f807ae")
-	)
-	(segment
 		(start 135.925999 108.801)
 		(end 136.755847 108.801)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 18)
-		(uuid "ea8edc10-6809-460f-ae54-fe2096a0e542")
+		(uuid "12d53953-903f-481e-85c4-b4041703a75f")
+	)
+	(segment
+		(start 135.695999 109.031)
+		(end 135.925999 108.801)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 18)
+		(uuid "3af4a3a1-3bf5-4a68-8841-a8166ebe73c2")
+	)
+	(segment
+		(start 135.695999 109.285)
+		(end 135.695999 109.031)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 18)
+		(uuid "c958ff51-9e50-4f69-b57e-b7eff196bc25")
 	)
 	(via
-		(at 135.695999 109.389)
+		(at 135.695999 109.285)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24567,28 +25962,36 @@
 		(uuid "4c55201d-4029-4441-b371-a21d1012911c")
 	)
 	(segment
-		(start 135.695999 109.389)
-		(end 135.060999 109.389)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 18)
-		(uuid "080a51ab-034a-45e1-a8ee-b0b9c38ac514")
-	)
-	(segment
-		(start 136.617999 109.389)
+		(start 136.513999 109.285)
 		(end 136.640999 109.412)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 18)
-		(uuid "dae0f506-c807-4fe4-9815-d730b5b86325")
+		(uuid "45843a03-75ee-4592-a068-8de416f70a1b")
 	)
 	(segment
-		(start 135.695999 109.389)
-		(end 136.617999 109.389)
+		(start 135.695999 109.285)
+		(end 135.591999 109.389)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 18)
-		(uuid "de9b66c8-166b-4ea0-997d-97039931b69f")
+		(uuid "8f59d2a4-768a-405e-b080-436144e505f4")
+	)
+	(segment
+		(start 135.591999 109.389)
+		(end 135.060999 109.389)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 18)
+		(uuid "cf121f40-7621-47da-aad5-8c1fd2ea1ba3")
+	)
+	(segment
+		(start 135.695999 109.285)
+		(end 136.513999 109.285)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 18)
+		(uuid "ef3024ee-f2cb-48b4-9a17-c21f2794094a")
 	)
 	(segment
 		(start 133.790999 106.844)
@@ -25287,13 +26690,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 135.417159 109.804746) (xy 135.485946 109.848953) (xy 135.564278 109.871953) (xy 135.624034 109.889499)
-				(xy 135.624036 109.8895) (xy 135.624038 109.8895) (xy 135.767962 109.8895) (xy 135.767963 109.889499)
-				(xy 135.906052 109.848953) (xy 135.974838 109.804746) (xy 136.014845 109.793) (xy 137.272999 109.793)
 				(xy 137.325325 109.814674) (xy 137.346999 109.867) (xy 137.346999 110.1254) (xy 137.325325 110.177726)
 				(xy 137.272999 110.1994) (xy 135.391199 110.1994) (xy 135.205712 110.709489) (xy 135.16746 110.751258)
 				(xy 135.136167 110.7582) (xy 134.093599 110.7582) (xy 134.041273 110.736526) (xy 134.019599 110.6842)
-				(xy 134.019599 109.867) (xy 134.041273 109.814674) (xy 134.093599 109.793) (xy 135.377153 109.793)
+				(xy 134.019599 109.867) (xy 134.041273 109.814674) (xy 134.093599 109.793) (xy 137.272999 109.793)
 			)
 		)
 	)
@@ -25448,7 +26848,7 @@
 				(xy 154.302874 108.74828) (xy 154.302873 108.748281) (xy 154.18278 108.809471) (xy 154.087471 108.90478)
 				(xy 154.026281 109.024873) (xy 154.02448 109.030416) (xy 154.021329 109.029392) (xy 153.997454 109.068363)
 				(xy 153.953952 109.0825) (xy 153.759128 109.0825) (xy 153.706802 109.060826) (xy 153.686039 109.020076)
-				(xy 153.683945 109.006857) (xy 153.682951 109.00058) (xy 153.634138 108.90478) (xy 153.622659 108.88225)
+				(xy 153.684701 109.011627) (xy 153.682951 109.00058) (xy 153.63316 108.90286) (xy 153.622659 108.88225)
 				(xy 153.528749 108.78834) (xy 153.41042 108.728049) (xy 153.41042 108.728048) (xy 153.312247 108.7125)
 				(xy 153.312246 108.7125) (xy 152.808754 108.7125) (xy 152.808753 108.7125) (xy 152.710579 108.728048)
 				(xy 152.710579 108.728049) (xy 152.59225 108.78834) (xy 152.49834 108.88225) (xy 152.438049 109.000579)
@@ -25833,10 +27233,10 @@
 				(xy 135.197961 108.809385) (xy 135.197966 108.809384) (xy 135.248929 108.784675) (xy 135.312868 108.73629)
 				(xy 135.40802 108.629245) (xy 135.410605 108.626337) (xy 135.461568 108.601628) (xy 135.465913 108.6015)
 				(xy 135.521876 108.6015) (xy 135.574202 108.623174) (xy 135.595876 108.6755) (xy 135.574202 108.727826)
-				(xy 135.455539 108.846488) (xy 135.415978 108.915009) (xy 135.415977 108.915013) (xy 135.404283 108.958653)
-				(xy 135.372817 109.001749) (xy 135.364874 109.006854) (xy 135.36487 109.006857) (xy 135.270622 109.115626)
-				(xy 135.210833 109.246545) (xy 135.190352 109.388999) (xy 135.206738 109.502969) (xy 135.192731 109.557847)
-				(xy 135.144022 109.586747) (xy 135.133491 109.5875) (xy 134.093599 109.5875) (xy 134.071306 109.591934)
+				(xy 135.511488 108.79054) (xy 135.511487 108.79054) (xy 135.466485 108.835541) (xy 135.454168 108.845467)
+				(xy 135.364876 108.902853) (xy 135.364867 108.90286) (xy 135.270622 109.011626) (xy 135.210833 109.142545)
+				(xy 135.190352 109.285) (xy 135.210833 109.427454) (xy 135.23609 109.482759) (xy 135.238111 109.53936)
+				(xy 135.199518 109.580813) (xy 135.168777 109.5875) (xy 134.093599 109.5875) (xy 134.071306 109.591934)
 				(xy 134.014963 109.603141) (xy 134.014953 109.603144) (xy 133.962636 109.624814) (xy 133.904338 109.661445)
 				(xy 133.904336 109.661447) (xy 133.851415 109.736033) (xy 133.829743 109.788354) (xy 133.82974 109.788364)
 				(xy 133.814099 109.867001) (xy 133.814099 110.684198) (xy 133.82974 110.762835) (xy 133.829743 110.762845)
@@ -26056,7 +27456,7 @@
 				(xy 150.92334 109.893749) (xy 151.01725 109.987659) (xy 151.076245 110.017718) (xy 151.135579 110.04795)
 				(xy 151.135579 110.047951) (xy 151.233753 110.0635) (xy 151.233754 110.0635) (xy 151.737247 110.0635)
 				(xy 151.83542 110.047951) (xy 151.953751 109.987658) (xy 152.047658 109.893751) (xy 152.107951 109.77542)
-				(xy 152.1235 109.677246) (xy 152.1235 109.098754) (xy 152.107951 109.00058) (xy 152.059138 108.90478)
+				(xy 152.1235 109.677246) (xy 152.1235 109.098754) (xy 152.107951 109.00058) (xy 152.05816 108.90286)
 				(xy 152.047659 108.88225) (xy 151.953749 108.78834) (xy 151.83542 108.728049) (xy 151.83542 108.728048)
 				(xy 151.737247 108.7125) (xy 151.737246 108.7125) (xy 151.233754 108.7125) (xy 151.233753 108.7125)
 				(xy 151.135579 108.728048) (xy 151.135579 108.728049) (xy 151.01725 108.78834) (xy 150.92334 108.88225)
@@ -26071,7 +27471,7 @@
 				(xy 148.826575 108.994061) (xy 148.826847 108.992693) (xy 148.826847 108.888) (xy 147.256847 108.888)
 				(xy 147.256847 108.992697) (xy 147.268451 109.051036) (xy 147.27124 109.05777) (xy 147.267912 109.059148)
 				(xy 147.276421 109.102017) (xy 147.269929 109.117687) (xy 147.270769 109.118035) (xy 147.26798 109.124767)
-				(xy 147.263951 109.145024) (xy 147.256347 109.183252) (xy 146.196864 109.183252) (xy 146.190243 109.149964)
+				(xy 147.264444 109.142545) (xy 147.256347 109.183252) (xy 146.196864 109.183252) (xy 146.190243 109.149964)
 				(xy 146.146039 109.083808) (xy 146.146038 109.083807) (xy 146.079882 109.039603) (xy 146.021544 109.028)
 				(xy 145.301847 109.028) (xy 145.301847 109.928) (xy 145.101847 109.928) (xy 145.101847 109.028)
 				(xy 144.38215 109.028) (xy 144.323811 109.039603) (xy 144.257655 109.083807) (xy 144.257654 109.083808)
@@ -26833,19 +28233,19 @@
 				(xy 129.876833 109.300454) (xy 129.936622 109.431373) (xy 130.030867 109.540139) (xy 130.030868 109.54014)
 				(xy 130.030871 109.540143) (xy 130.151946 109.617953) (xy 130.258402 109.649211) (xy 130.290034 109.658499)
 				(xy 130.290036 109.6585) (xy 130.290038 109.6585) (xy 130.433962 109.6585) (xy 130.433963 109.658499)
-				(xy 130.572052 109.617953) (xy 130.693127 109.540143) (xy 130.787376 109.431373) (xy 130.806727 109.389)
-				(xy 135.190352 109.389) (xy 135.210833 109.531454) (xy 135.210833 109.531455) (xy 135.210834 109.531457)
-				(xy 135.250336 109.617953) (xy 135.270622 109.662373) (xy 135.364867 109.771139) (xy 135.364868 109.77114)
-				(xy 135.364871 109.771143) (xy 135.485946 109.848953) (xy 135.592402 109.880211) (xy 135.624034 109.889499)
-				(xy 135.624036 109.8895) (xy 135.624038 109.8895) (xy 135.767962 109.8895) (xy 135.767963 109.889499)
-				(xy 135.906052 109.848953) (xy 136.027127 109.771143) (xy 136.121376 109.662373) (xy 136.181164 109.531457)
-				(xy 136.201646 109.389) (xy 136.181164 109.246543) (xy 136.121376 109.115627) (xy 136.034655 109.015545)
-				(xy 136.02713 109.00686) (xy 136.027128 109.006859) (xy 136.027127 109.006857) (xy 135.970181 108.97026)
-				(xy 135.906053 108.929047) (xy 135.906049 108.929046) (xy 135.767963 108.8885) (xy 135.76796 108.8885)
-				(xy 135.624038 108.8885) (xy 135.624035 108.8885) (xy 135.485948 108.929046) (xy 135.485944 108.929047)
-				(xy 135.364874 109.006855) (xy 135.364867 109.00686) (xy 135.270622 109.115626) (xy 135.210833 109.246545)
-				(xy 135.190352 109.389) (xy 130.806727 109.389) (xy 130.847164 109.300457) (xy 130.867646 109.158)
-				(xy 130.847164 109.015543) (xy 130.787376 108.884627) (xy 130.693127 108.775857) (xy 130.692968 108.775755)
+				(xy 130.572052 109.617953) (xy 130.693127 109.540143) (xy 130.787376 109.431373) (xy 130.847164 109.300457)
+				(xy 130.849386 109.285) (xy 135.190352 109.285) (xy 135.210833 109.427454) (xy 135.210833 109.427455)
+				(xy 135.210834 109.427457) (xy 135.262295 109.540139) (xy 135.270622 109.558373) (xy 135.364867 109.667139)
+				(xy 135.364868 109.66714) (xy 135.364871 109.667143) (xy 135.485946 109.744953) (xy 135.592402 109.776211)
+				(xy 135.624034 109.785499) (xy 135.624036 109.7855) (xy 135.624038 109.7855) (xy 135.767962 109.7855)
+				(xy 135.767963 109.785499) (xy 135.906052 109.744953) (xy 136.027127 109.667143) (xy 136.121376 109.558373)
+				(xy 136.181164 109.427457) (xy 136.201646 109.285) (xy 136.181164 109.142543) (xy 136.121376 109.011627)
+				(xy 136.027127 108.902857) (xy 135.970181 108.86626) (xy 135.906053 108.825047) (xy 135.906049 108.825046)
+				(xy 135.767963 108.7845) (xy 135.76796 108.7845) (xy 135.624038 108.7845) (xy 135.624035 108.7845)
+				(xy 135.485948 108.825046) (xy 135.485944 108.825047) (xy 135.364874 108.902855) (xy 135.364867 108.90286)
+				(xy 135.270622 109.011626) (xy 135.210833 109.142545) (xy 135.190352 109.285) (xy 130.849386 109.285)
+				(xy 130.867646 109.158) (xy 130.847164 109.015543) (xy 130.787376 108.884627) (xy 130.735749 108.825046)
+				(xy 130.69313 108.77586) (xy 130.693129 108.775859) (xy 130.693127 108.775857) (xy 130.692968 108.775755)
 				(xy 130.692908 108.775668) (xy 130.689127 108.772392) (xy 130.689962 108.771427) (xy 130.660663 108.729236)
 				(xy 130.670715 108.673498) (xy 130.689348 108.654864) (xy 130.689127 108.654608) (xy 130.692707 108.651505)
 				(xy 130.692967 108.651245) (xy 130.693127 108.651143) (xy 130.787376 108.542373) (xy 130.847164 108.411457)
@@ -27258,19 +28658,19 @@
 				(xy 129.876833 109.300454) (xy 129.936622 109.431373) (xy 130.030867 109.540139) (xy 130.030868 109.54014)
 				(xy 130.030871 109.540143) (xy 130.151946 109.617953) (xy 130.258402 109.649211) (xy 130.290034 109.658499)
 				(xy 130.290036 109.6585) (xy 130.290038 109.6585) (xy 130.433962 109.6585) (xy 130.433963 109.658499)
-				(xy 130.572052 109.617953) (xy 130.693127 109.540143) (xy 130.787376 109.431373) (xy 130.806727 109.389)
-				(xy 135.190352 109.389) (xy 135.210833 109.531454) (xy 135.210833 109.531455) (xy 135.210834 109.531457)
-				(xy 135.250336 109.617953) (xy 135.270622 109.662373) (xy 135.364867 109.771139) (xy 135.364868 109.77114)
-				(xy 135.364871 109.771143) (xy 135.485946 109.848953) (xy 135.592402 109.880211) (xy 135.624034 109.889499)
-				(xy 135.624036 109.8895) (xy 135.624038 109.8895) (xy 135.767962 109.8895) (xy 135.767963 109.889499)
-				(xy 135.906052 109.848953) (xy 136.027127 109.771143) (xy 136.121376 109.662373) (xy 136.181164 109.531457)
-				(xy 136.201646 109.389) (xy 136.181164 109.246543) (xy 136.121376 109.115627) (xy 136.034655 109.015545)
-				(xy 136.02713 109.00686) (xy 136.027128 109.006859) (xy 136.027127 109.006857) (xy 135.970181 108.97026)
-				(xy 135.906053 108.929047) (xy 135.906049 108.929046) (xy 135.767963 108.8885) (xy 135.76796 108.8885)
-				(xy 135.624038 108.8885) (xy 135.624035 108.8885) (xy 135.485948 108.929046) (xy 135.485944 108.929047)
-				(xy 135.364874 109.006855) (xy 135.364867 109.00686) (xy 135.270622 109.115626) (xy 135.210833 109.246545)
-				(xy 135.190352 109.389) (xy 130.806727 109.389) (xy 130.847164 109.300457) (xy 130.867646 109.158)
-				(xy 130.847164 109.015543) (xy 130.787376 108.884627) (xy 130.693127 108.775857) (xy 130.692968 108.775755)
+				(xy 130.572052 109.617953) (xy 130.693127 109.540143) (xy 130.787376 109.431373) (xy 130.847164 109.300457)
+				(xy 130.849386 109.285) (xy 135.190352 109.285) (xy 135.210833 109.427454) (xy 135.210833 109.427455)
+				(xy 135.210834 109.427457) (xy 135.262295 109.540139) (xy 135.270622 109.558373) (xy 135.364867 109.667139)
+				(xy 135.364868 109.66714) (xy 135.364871 109.667143) (xy 135.485946 109.744953) (xy 135.592402 109.776211)
+				(xy 135.624034 109.785499) (xy 135.624036 109.7855) (xy 135.624038 109.7855) (xy 135.767962 109.7855)
+				(xy 135.767963 109.785499) (xy 135.906052 109.744953) (xy 136.027127 109.667143) (xy 136.121376 109.558373)
+				(xy 136.181164 109.427457) (xy 136.201646 109.285) (xy 136.181164 109.142543) (xy 136.121376 109.011627)
+				(xy 136.027127 108.902857) (xy 135.970181 108.86626) (xy 135.906053 108.825047) (xy 135.906049 108.825046)
+				(xy 135.767963 108.7845) (xy 135.76796 108.7845) (xy 135.624038 108.7845) (xy 135.624035 108.7845)
+				(xy 135.485948 108.825046) (xy 135.485944 108.825047) (xy 135.364874 108.902855) (xy 135.364867 108.90286)
+				(xy 135.270622 109.011626) (xy 135.210833 109.142545) (xy 135.190352 109.285) (xy 130.849386 109.285)
+				(xy 130.867646 109.158) (xy 130.847164 109.015543) (xy 130.787376 108.884627) (xy 130.735749 108.825046)
+				(xy 130.69313 108.77586) (xy 130.693129 108.775859) (xy 130.693127 108.775857) (xy 130.692968 108.775755)
 				(xy 130.692908 108.775668) (xy 130.689127 108.772392) (xy 130.689962 108.771427) (xy 130.660663 108.729236)
 				(xy 130.670715 108.673498) (xy 130.689348 108.654864) (xy 130.689127 108.654608) (xy 130.692707 108.651505)
 				(xy 130.692967 108.651245) (xy 130.693127 108.651143) (xy 130.787376 108.542373) (xy 130.847164 108.411457)
@@ -27875,7 +29275,7 @@
 				(xy 140.330538 107.070645) (xy 140.330536 107.070647) (xy 140.277615 107.145233) (xy 140.255943 107.197554)
 				(xy 140.25594 107.197564) (xy 140.240299 107.276201) (xy 140.240299 107.396404) (xy 140.238596 107.41219)
 				(xy 140.238353 107.413298) (xy 140.238353 107.413301) (xy 140.235499 107.443734) (xy 140.235499 109.602266)
-				(xy 140.238344 109.632602) (xy 140.238353 109.632699) (xy 140.238594 109.6338) (xy 140.240299 109.649594)
+				(xy 140.237595 109.624613) (xy 140.238353 109.632699) (xy 140.238594 109.6338) (xy 140.240299 109.649594)
 				(xy 140.240299 111.403637) (xy 140.239671 111.411608) (xy 140.239727 111.411613) (xy 140.239499 111.414511)
 				(xy 140.239499 111.98149) (xy 140.239727 111.984389) (xy 140.239671 111.984393) (xy 140.240299 111.992363)
 				(xy 140.240299 113.371879) (xy 140.218625 113.424205) (xy 140.166299 113.445879) (xy 140.145452 113.442882)
@@ -27924,55 +29324,55 @@
 				(xy 134.550354 109.140828) (xy 134.550354 109.140829) (xy 134.540499 109.208467) (xy 134.540499 109.569532)
 				(xy 134.550354 109.63717) (xy 134.550354 109.637171) (xy 134.601362 109.74151) (xy 134.601363 109.741511)
 				(xy 134.683488 109.823636) (xy 134.787829 109.874645) (xy 134.855471 109.8845) (xy 134.855477 109.8845)
-				(xy 135.266521 109.8845) (xy 135.266527 109.8845) (xy 135.334169 109.874645) (xy 135.405634 109.839707)
-				(xy 135.462161 109.836198) (xy 135.478141 109.843937) (xy 135.485946 109.848953) (xy 135.573443 109.874644)
-				(xy 135.624034 109.889499) (xy 135.624036 109.8895) (xy 135.624038 109.8895) (xy 135.767962 109.8895)
-				(xy 135.767963 109.889499) (xy 135.906052 109.848953) (xy 136.027127 109.771143) (xy 136.073541 109.717577)
-				(xy 136.124185 109.692226) (xy 136.177924 109.71011) (xy 136.196533 109.734763) (xy 136.19968 109.741511)
-				(xy 136.217775 109.780316) (xy 136.302683 109.865224) (xy 136.411512 109.915972) (xy 136.461098 109.9225)
-				(xy 136.820899 109.922499) (xy 136.870486 109.915972) (xy 136.979315 109.865224) (xy 137.064223 109.780316)
-				(xy 137.064223 109.780315) (xy 137.068801 109.775738) (xy 137.071527 109.778464) (xy 137.108416 109.754931)
-				(xy 137.163719 109.767153) (xy 137.173639 109.775472) (xy 137.262974 109.864807) (xy 137.371645 109.915481)
-				(xy 137.371644 109.915481) (xy 137.421161 109.922) (xy 137.500999 109.922) (xy 137.700999 109.922)
-				(xy 137.780837 109.922) (xy 137.830353 109.915481) (xy 137.939023 109.864807) (xy 138.023806 109.780024)
-				(xy 138.07448 109.671354) (xy 138.080999 109.621838) (xy 138.080999 109.512) (xy 137.700999 109.512)
-				(xy 137.700999 109.922) (xy 137.500999 109.922) (xy 137.500999 109.312) (xy 137.700999 109.312)
-				(xy 138.080999 109.312) (xy 138.080999 109.202161) (xy 138.07448 109.152645) (xy 138.023806 109.043975)
-				(xy 137.936157 108.956326) (xy 137.914483 108.904) (xy 137.936157 108.851674) (xy 138.023806 108.764024)
-				(xy 138.07448 108.655354) (xy 138.080999 108.605838) (xy 138.080999 108.496) (xy 137.700999 108.496)
-				(xy 137.700999 109.312) (xy 137.500999 109.312) (xy 137.500999 108.296) (xy 137.700999 108.296)
-				(xy 138.080999 108.296) (xy 138.080999 108.186161) (xy 138.07448 108.136645) (xy 138.023806 108.027975)
-				(xy 137.936157 107.940326) (xy 137.914483 107.888) (xy 137.936157 107.835674) (xy 138.023806 107.748024)
-				(xy 138.07448 107.639354) (xy 138.080999 107.589838) (xy 138.080999 107.48) (xy 137.700999 107.48)
-				(xy 137.700999 108.296) (xy 137.500999 108.296) (xy 137.500999 107.28) (xy 137.700999 107.28) (xy 138.080999 107.28)
-				(xy 138.080999 107.170161) (xy 138.07448 107.120645) (xy 138.023806 107.011975) (xy 137.936157 106.924326)
-				(xy 137.914483 106.872) (xy 137.936157 106.819674) (xy 138.023806 106.732024) (xy 138.07448 106.623354)
-				(xy 138.080999 106.573838) (xy 138.080999 106.464) (xy 137.700999 106.464) (xy 137.700999 107.28)
-				(xy 137.500999 107.28) (xy 137.500999 106.264) (xy 137.700999 106.264) (xy 138.080999 106.264) (xy 138.080999 106.154161)
-				(xy 138.07448 106.104645) (xy 138.023806 105.995975) (xy 137.936157 105.908326) (xy 137.914483 105.856)
-				(xy 137.936157 105.803674) (xy 138.023806 105.716024) (xy 138.031626 105.699253) (xy 146.908 105.699253)
-				(xy 146.914421 105.74804) (xy 146.914422 105.748042) (xy 146.96435 105.855111) (xy 146.96435 105.855112)
-				(xy 147.047886 105.938648) (xy 147.154959 105.988577) (xy 147.154958 105.988577) (xy 147.203745 105.994999)
-				(xy 147.277999 105.994999) (xy 147.277999 105.575) (xy 146.908 105.575) (xy 146.908 105.699253)
-				(xy 138.031626 105.699253) (xy 138.07448 105.607354) (xy 138.080999 105.557838) (xy 138.080999 105.448)
-				(xy 137.700999 105.448) (xy 137.700999 106.264) (xy 137.500999 106.264) (xy 137.500999 105.250746)
-				(xy 146.907999 105.250746) (xy 146.907999 105.375) (xy 147.277999 105.375) (xy 147.277999 104.972652)
-				(xy 147.299673 104.920326) (xy 147.307999 104.912) (xy 147.307999 104.559) (xy 146.927999 104.559)
-				(xy 146.927999 104.668838) (xy 146.934517 104.718354) (xy 146.985191 104.827024) (xy 147.057066 104.898899)
-				(xy 147.07874 104.951225) (xy 147.057066 105.003551) (xy 147.048493 105.010744) (xy 146.96435 105.094887)
-				(xy 146.914421 105.201959) (xy 146.907999 105.250746) (xy 137.500999 105.250746) (xy 137.500999 105.248)
-				(xy 137.700999 105.248) (xy 138.080999 105.248) (xy 138.080999 105.138161) (xy 138.07448 105.088645)
-				(xy 138.023806 104.979975) (xy 137.936157 104.892326) (xy 137.914483 104.84) (xy 137.936157 104.787674)
-				(xy 138.023806 104.700024) (xy 138.07448 104.591354) (xy 138.080999 104.541838) (xy 138.080999 104.432)
-				(xy 137.700999 104.432) (xy 137.700999 105.248) (xy 137.500999 105.248) (xy 137.500999 104.232)
-				(xy 137.700999 104.232) (xy 138.080999 104.232) (xy 138.080999 104.122161) (xy 138.07448 104.072645)
-				(xy 138.023806 103.963975) (xy 137.936157 103.876326) (xy 137.914483 103.824) (xy 137.936157 103.771674)
-				(xy 138.023806 103.684024) (xy 138.07448 103.575354) (xy 138.080999 103.525838) (xy 138.080999 103.416)
-				(xy 137.700999 103.416) (xy 137.700999 104.232) (xy 137.500999 104.232) (xy 137.500999 103.216)
-				(xy 137.700999 103.216) (xy 138.080999 103.216) (xy 138.080999 103.106161) (xy 138.07448 103.056645)
-				(xy 138.023806 102.947975) (xy 137.936157 102.860326) (xy 137.914483 102.808) (xy 137.936157 102.755674)
-				(xy 138.023806 102.668024) (xy 138.07448 102.559354) (xy 138.080999 102.509838) (xy 138.080999 102.4)
-				(xy 137.700999 102.4) (xy 137.700999 103.216) (xy 137.500999 103.216) (xy 137.500999 102.274) (xy 137.522673 102.221674)
+				(xy 135.266521 109.8845) (xy 135.266527 109.8845) (xy 135.334169 109.874645) (xy 135.43851 109.823636)
+				(xy 135.479054 109.78309) (xy 135.531377 109.761417) (xy 135.552228 109.764415) (xy 135.624036 109.7855)
+				(xy 135.624038 109.7855) (xy 135.767962 109.7855) (xy 135.767963 109.785499) (xy 135.775885 109.783173)
+				(xy 135.906052 109.744953) (xy 136.027127 109.667143) (xy 136.04201 109.649966) (xy 136.092655 109.624613)
+				(xy 136.146394 109.642496) (xy 136.165004 109.66715) (xy 136.167259 109.671985) (xy 136.217775 109.780316)
+				(xy 136.302683 109.865224) (xy 136.411512 109.915972) (xy 136.461098 109.9225) (xy 136.820899 109.922499)
+				(xy 136.870486 109.915972) (xy 136.979315 109.865224) (xy 137.064223 109.780316) (xy 137.064223 109.780315)
+				(xy 137.068801 109.775738) (xy 137.071527 109.778464) (xy 137.108416 109.754931) (xy 137.163719 109.767153)
+				(xy 137.173639 109.775472) (xy 137.262974 109.864807) (xy 137.371645 109.915481) (xy 137.371644 109.915481)
+				(xy 137.421161 109.922) (xy 137.500999 109.922) (xy 137.700999 109.922) (xy 137.780837 109.922)
+				(xy 137.830353 109.915481) (xy 137.939023 109.864807) (xy 138.023806 109.780024) (xy 138.07448 109.671354)
+				(xy 138.080999 109.621838) (xy 138.080999 109.512) (xy 137.700999 109.512) (xy 137.700999 109.922)
+				(xy 137.500999 109.922) (xy 137.500999 109.312) (xy 137.700999 109.312) (xy 138.080999 109.312)
+				(xy 138.080999 109.202161) (xy 138.07448 109.152645) (xy 138.023806 109.043975) (xy 137.936157 108.956326)
+				(xy 137.914483 108.904) (xy 137.936157 108.851674) (xy 138.023806 108.764024) (xy 138.07448 108.655354)
+				(xy 138.080999 108.605838) (xy 138.080999 108.496) (xy 137.700999 108.496) (xy 137.700999 109.312)
+				(xy 137.500999 109.312) (xy 137.500999 108.296) (xy 137.700999 108.296) (xy 138.080999 108.296)
+				(xy 138.080999 108.186161) (xy 138.07448 108.136645) (xy 138.023806 108.027975) (xy 137.936157 107.940326)
+				(xy 137.914483 107.888) (xy 137.936157 107.835674) (xy 138.023806 107.748024) (xy 138.07448 107.639354)
+				(xy 138.080999 107.589838) (xy 138.080999 107.48) (xy 137.700999 107.48) (xy 137.700999 108.296)
+				(xy 137.500999 108.296) (xy 137.500999 107.28) (xy 137.700999 107.28) (xy 138.080999 107.28) (xy 138.080999 107.170161)
+				(xy 138.07448 107.120645) (xy 138.023806 107.011975) (xy 137.936157 106.924326) (xy 137.914483 106.872)
+				(xy 137.936157 106.819674) (xy 138.023806 106.732024) (xy 138.07448 106.623354) (xy 138.080999 106.573838)
+				(xy 138.080999 106.464) (xy 137.700999 106.464) (xy 137.700999 107.28) (xy 137.500999 107.28) (xy 137.500999 106.264)
+				(xy 137.700999 106.264) (xy 138.080999 106.264) (xy 138.080999 106.154161) (xy 138.07448 106.104645)
+				(xy 138.023806 105.995975) (xy 137.936157 105.908326) (xy 137.914483 105.856) (xy 137.936157 105.803674)
+				(xy 138.023806 105.716024) (xy 138.031626 105.699253) (xy 146.908 105.699253) (xy 146.914421 105.74804)
+				(xy 146.914422 105.748042) (xy 146.96435 105.855111) (xy 146.96435 105.855112) (xy 147.047886 105.938648)
+				(xy 147.154959 105.988577) (xy 147.154958 105.988577) (xy 147.203745 105.994999) (xy 147.277999 105.994999)
+				(xy 147.277999 105.575) (xy 146.908 105.575) (xy 146.908 105.699253) (xy 138.031626 105.699253)
+				(xy 138.07448 105.607354) (xy 138.080999 105.557838) (xy 138.080999 105.448) (xy 137.700999 105.448)
+				(xy 137.700999 106.264) (xy 137.500999 106.264) (xy 137.500999 105.250746) (xy 146.907999 105.250746)
+				(xy 146.907999 105.375) (xy 147.277999 105.375) (xy 147.277999 104.972652) (xy 147.299673 104.920326)
+				(xy 147.307999 104.912) (xy 147.307999 104.559) (xy 146.927999 104.559) (xy 146.927999 104.668838)
+				(xy 146.934517 104.718354) (xy 146.985191 104.827024) (xy 147.057066 104.898899) (xy 147.07874 104.951225)
+				(xy 147.057066 105.003551) (xy 147.048493 105.010744) (xy 146.96435 105.094887) (xy 146.914421 105.201959)
+				(xy 146.907999 105.250746) (xy 137.500999 105.250746) (xy 137.500999 105.248) (xy 137.700999 105.248)
+				(xy 138.080999 105.248) (xy 138.080999 105.138161) (xy 138.07448 105.088645) (xy 138.023806 104.979975)
+				(xy 137.936157 104.892326) (xy 137.914483 104.84) (xy 137.936157 104.787674) (xy 138.023806 104.700024)
+				(xy 138.07448 104.591354) (xy 138.080999 104.541838) (xy 138.080999 104.432) (xy 137.700999 104.432)
+				(xy 137.700999 105.248) (xy 137.500999 105.248) (xy 137.500999 104.232) (xy 137.700999 104.232)
+				(xy 138.080999 104.232) (xy 138.080999 104.122161) (xy 138.07448 104.072645) (xy 138.023806 103.963975)
+				(xy 137.936157 103.876326) (xy 137.914483 103.824) (xy 137.936157 103.771674) (xy 138.023806 103.684024)
+				(xy 138.07448 103.575354) (xy 138.080999 103.525838) (xy 138.080999 103.416) (xy 137.700999 103.416)
+				(xy 137.700999 104.232) (xy 137.500999 104.232) (xy 137.500999 103.216) (xy 137.700999 103.216)
+				(xy 138.080999 103.216) (xy 138.080999 103.106161) (xy 138.07448 103.056645) (xy 138.023806 102.947975)
+				(xy 137.936157 102.860326) (xy 137.914483 102.808) (xy 137.936157 102.755674) (xy 138.023806 102.668024)
+				(xy 138.07448 102.559354) (xy 138.080999 102.509838) (xy 138.080999 102.4) (xy 137.700999 102.4)
+				(xy 137.700999 103.216) (xy 137.500999 103.216) (xy 137.500999 102.274) (xy 137.522673 102.221674)
 				(xy 137.574999 102.2) (xy 138.080999 102.2) (xy 138.080999 102.090162) (xy 138.078892 102.07416)
 				(xy 138.09355 102.019452) (xy 138.142599 101.991133) (xy 138.152259 101.9905) (xy 140.99152 101.9905)
 				(xy 141.043846 102.012174) (xy 141.624625 102.592953) (xy 141.646299 102.645279) (xy 141.646299 103.455347)
