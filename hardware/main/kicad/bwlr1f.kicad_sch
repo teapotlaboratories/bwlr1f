@@ -252,6 +252,114 @@
 				)
 			)
 		)
+		(symbol "Device:Antenna"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "AE"
+				(at -1.905 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "Antenna"
+				(at -1.905 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Antenna"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "antenna"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Antenna_0_1"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 0 -2.54) (xy -1.27 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Antenna_1_1"
+				(pin input line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:Battery_Cell"
 			(pin_numbers hide)
 			(pin_names
@@ -2183,266 +2291,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "bwlr1f:ANT-915-USP410"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "E"
-				(at -5.08 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "ANT-915-USP410"
-				(at 2.159 -1.016 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "XDCR_ANT-915-USP410"
-				(at -5.08 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "2.9 mm"
-				(at 2.54 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Linx"
-				(at -1.27 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "N/A"
-				(at -7.62 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "ANT-915-USP410_0_0"
-				(polyline
-					(pts
-						(xy -1.397 3.175) (xy 0 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.762 -3.302) (xy 0.762 -3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -4.064) (xy 0.254 -4.064)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy -1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy -1.397 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.175) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.175) (xy 1.397 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.397 3.175) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
 							)
 						)
 					)
@@ -4732,6 +4580,12 @@
 		(uuid "c6a8c652-af44-49fb-96f4-39d9a6576a3d")
 	)
 	(junction
+		(at 101.6 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7ef3a41-5f3b-4cc4-b952-b09cd09d8c35")
+	)
+	(junction
 		(at 34.29 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4754,12 +4608,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4e143bc-9d80-493a-b07c-935bf711071a")
-	)
-	(junction
-		(at 101.6 64.135)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5fa3f78-79d5-4751-855b-f68e0846862d")
 	)
 	(junction
 		(at 50.8 133.35)
@@ -5225,16 +5073,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 72.39) (xy 99.06 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16ea7799-9c14-4337-9f4a-ed6b8429a60c")
-	)
-	(wire
-		(pts
 			(xy 204.47 203.2) (xy 204.47 212.09)
 		)
 		(stroke
@@ -5355,7 +5193,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 64.135) (xy 99.06 67.31)
+			(xy 99.06 67.31) (xy 99.06 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5482,6 +5320,16 @@
 			(type default)
 		)
 		(uuid "3181bbb0-b8a4-4a2d-aa5c-4218fc51611f")
+	)
+	(wire
+		(pts
+			(xy 101.6 74.93) (xy 101.6 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "328b27e0-3c4f-4262-a8b4-6b416f2a7af9")
 	)
 	(wire
 		(pts
@@ -5622,16 +5470,6 @@
 			(type default)
 		)
 		(uuid "3986293d-0a5d-4ad0-9782-125bba0ed82a")
-	)
-	(wire
-		(pts
-			(xy 101.6 72.39) (xy 101.6 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39cad438-28b0-44dc-82de-c74cf980bb66")
 	)
 	(wire
 		(pts
@@ -6405,6 +6243,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 74.93) (xy 99.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85af9bda-8c55-4acf-896d-7c739f5880ef")
+	)
+	(wire
+		(pts
 			(xy 55.88 229.87) (xy 55.88 242.57)
 		)
 		(stroke
@@ -6695,7 +6543,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 64.135) (xy 101.6 64.135)
+			(xy 99.06 67.31) (xy 101.6 67.31)
 		)
 		(stroke
 			(width 0)
@@ -6932,6 +6780,16 @@
 			(type default)
 		)
 		(uuid "b588f601-e0cf-4fda-bb49-f06a4413c9d6")
+	)
+	(wire
+		(pts
+			(xy 101.6 67.31) (xy 101.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b600135a-2fef-447e-9db9-bccda13cab37")
 	)
 	(wire
 		(pts
@@ -7485,16 +7343,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 45.72) (xy 246.38 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eedcc4d6-fe08-4353-a8b9-51c23b551983")
-	)
-	(wire
-		(pts
 			(xy 44.45 43.18) (xy 44.45 41.91)
 		)
 		(stroke
@@ -7502,16 +7350,6 @@
 			(type default)
 		)
 		(uuid "efc1fbbd-6db7-4d7b-bb33-1d181a56c9ab")
-	)
-	(wire
-		(pts
-			(xy 246.38 43.18) (xy 248.92 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f064a32d-89e9-40d3-b0a0-fa59f24b21f0")
 	)
 	(wire
 		(pts
@@ -8102,7 +7940,7 @@
 		(uuid "8bd49297-2fdc-4107-a50b-e43753fab709")
 	)
 	(label "SCL"
-		(at 99.06 74.93 270)
+		(at 99.06 76.2 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8179,7 +8017,7 @@
 		(uuid "cc1045c5-d48f-4352-a29a-357244cae7ba")
 	)
 	(label "SDA"
-		(at 101.6 74.93 270)
+		(at 101.6 76.2 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10540,141 +10378,6 @@
 		)
 	)
 	(symbol
-		(lib_id "bwlr1f:ANT-915-USP410")
-		(at 251.46 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3e1db3f4-3af2-4945-a5f0-482d049b0b1a")
-		(property "Reference" "E1"
-			(at 254 39.8145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ANT-915-USP410"
-			(at 254 42.3545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "bwlr1f:XDCR_ANT-915-USP410"
-			(at 246.38 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=ant-915-usp410-ds&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=ANT-915-USP410"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "RF Ant 915 MHz Chip Solder SMD"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" "915MHz ISM, LoRaWAN, LPWA, Sigfox Chip RF Antenna 902MHz ~ 930MHz 0.9dBi Solder Surface Mount"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TE Connectivity Linx"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "ANT-915-USP410"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Digikey"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Part Number" "343-ANT-915-USP410CT-ND"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://www.digikey.com/en/products/detail/te-connectivity-linx/ANT-915-USP410/13165344"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "SMT"
-			(at 251.46 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9a9b2f6f-9d78-498a-aeb1-cb0c5ea4c734")
-		)
-		(pin "2"
-			(uuid "899c0c2e-c078-4af6-bcd2-fc67e9dec5ed")
-		)
-		(instances
-			(project "bwlr1f"
-				(path "/7fec048a-2dfd-4bff-8685-e805b00dfe07"
-					(reference "E1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V0")
 		(at 34.29 82.55 0)
 		(unit 1)
@@ -11924,6 +11627,73 @@
 			(project "bwlr1f"
 				(path "/7fec048a-2dfd-4bff-8685-e805b00dfe07"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Antenna")
+		(at 248.92 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55c31467-e988-4168-abbf-cc9f5db2ca3e")
+		(property "Reference" "AE1"
+			(at 251.46 34.9249 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 251.46 37.4649 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RF_Antenna:Texas_SWRA416_868MHz_915MHz"
+			(at 248.92 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 248.92 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "721b84d9-f92b-44e9-8cb5-01b1cb606eb0")
+		)
+		(instances
+			(project ""
+				(path "/7fec048a-2dfd-4bff-8685-e805b00dfe07"
+					(reference "AE1")
 					(unit 1)
 				)
 			)
@@ -17477,7 +17247,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 99.06 69.85 0)
+		(at 99.06 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17485,7 +17255,7 @@
 		(dnp no)
 		(uuid "c906d2f1-9b56-4176-8d7b-f6278f6abd56")
 		(property "Reference" "R4"
-			(at 94.615 68.58 0)
+			(at 94.615 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17494,7 +17264,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 92.71 71.12 0)
+			(at 92.71 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17503,7 +17273,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17512,7 +17282,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0402FR-074K7L_C105871.pdf"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17521,7 +17291,7 @@
 			)
 		)
 		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17530,7 +17300,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17539,7 +17309,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0402FR-074K7L"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17548,7 +17318,7 @@
 			)
 		)
 		(property "Part Description" "Resistor 62.5mW 50V ±100ppm/℃ ±1% 4.7kΩ"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17557,7 +17327,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17566,7 +17336,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C105871"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17575,7 +17345,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-074K7L_C105871.html"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17584,7 +17354,7 @@
 			)
 		)
 		(property "Type" "SMT"
-			(at 99.06 69.85 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20988,77 +20758,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 246.38 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fb6e6b9c-5865-41f7-bbf9-dff5930f6dc1")
-		(property "Reference" "#PWR030"
-			(at 246.38 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.38 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 246.38 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "21b95e36-d359-4bcd-ad05-a988d0517ef9")
-		)
-		(instances
-			(project "bwlr1e"
-				(path "/630c8da6-5464-4eef-824d-89618087f4b4"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-			(project "bwlr1f"
-				(path "/7fec048a-2dfd-4bff-8685-e805b00dfe07"
-					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 34.29 107.95 180)
 		(unit 1)
@@ -21580,7 +21279,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 101.6 69.85 0)
+		(at 101.6 72.39 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21589,7 +21288,7 @@
 		(dnp no)
 		(uuid "ffed2f6c-017d-46b5-bbf2-7ec6c0ea8055")
 		(property "Reference" "R4"
-			(at 106.045 68.58 0)
+			(at 106.045 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21598,7 +21297,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 107.95 71.12 0)
+			(at 107.95 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21607,7 +21306,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21616,7 +21315,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0402FR-074K7L_C105871.pdf"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21625,7 +21324,7 @@
 			)
 		)
 		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21634,7 +21333,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21643,7 +21342,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0402FR-074K7L"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21652,7 +21351,7 @@
 			)
 		)
 		(property "Part Description" "Resistor 62.5mW 50V ±100ppm/℃ ±1% 4.7kΩ"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21661,7 +21360,7 @@
 			)
 		)
 		(property "Distributor" "LCSC"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21670,7 +21369,7 @@
 			)
 		)
 		(property "Distributor Part Number" "C105871"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21679,7 +21378,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-074K7L_C105871.html"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21688,7 +21387,7 @@
 			)
 		)
 		(property "Type" "SMT"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
