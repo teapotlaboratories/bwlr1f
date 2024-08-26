@@ -16664,7 +16664,7 @@
 			)
 		)
 	)
-	(gr_text "Dimension @User.2"
+	(gr_text "Dimension at User.2"
 		(at 143.909472 97.266001 0)
 		(layer "User.2")
 		(uuid "eb45d806-7f72-40bb-bd54-f065f9b57e76")
