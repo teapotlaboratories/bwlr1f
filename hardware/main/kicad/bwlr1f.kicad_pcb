@@ -22804,7 +22804,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fd66251d-3022-4148-b9e8-35ebca8fca6a")
 	)
-	(gr_text "Rev. A   08/24"
+	(gr_text "Typ. A   Rev. 2"
 		(at 154.364999 119.191 0)
 		(layer "B.SilkS")
 		(uuid "118dae95-e0f6-4df0-911e-cde360ff6424")
