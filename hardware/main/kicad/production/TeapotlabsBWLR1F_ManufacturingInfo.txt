@@ -1,0 +1,47 @@
+Thickness = 1.6mm
+
+--------------------
+
+Size: 61.2325 x 26.13mm
+Number of layers: 4
+Material: TG150-160 FR-4
+
+Min. track/spacing: 5/5mil
+Min. hole size: 0.3mm
+
+Solder mask: Red
+Silkscreen: White
+
+--------------------
+
+Impedance control: Yes
+
+Coplanar waveguide with ground plane
+Relative Dielectric Constant: 4.56
+Track Width : 0.319225mm
+Gap Width : 0.2mm
+Dielectric Thickness : 0.1855mm
+Copper Thickness : 0.0175mm
+
+Effective Dielectric Constant: 3.06054
+Characteristic Impedance: 50ohm
+
+--------------------
+
+SUGGESTED STACK-UP: PCBWAY No. 1 For 4 layer PCB
+
+L1	Copper		0.5oz					bwlr1f-F_Cu.gbr
+
+	Prepreg		0.1960mm		DK:4.56 (7628 RC46%) 
+
+L2	Copper		1oz					bwlr1f-In1_Cu.gbr
+
+	Core		1.1mm with copper 	DK:4.6
+
+L3	Copper		1oz					bwlr1f-In2_Cu.gbr
+
+	Prepreg		0.1960mm		DK:4.56 (7628 RC46%)
+
+L4	Copper		0.5oz					bwlr1f-B_Cu.gbr
+
+--------------------

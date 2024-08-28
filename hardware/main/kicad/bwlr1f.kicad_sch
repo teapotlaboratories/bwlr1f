@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "Teapotlabs BWLR1F")
-		(date "2024-01-09")
-		(rev "1")
+		(date "2024-08-27")
+		(rev "2")
 		(company "Teapot Laboratories")
 	)
 	(lib_symbols
