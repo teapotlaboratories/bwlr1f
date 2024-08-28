@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "BWLR1F Programmer")
+		(date "2024-08-27")
+		(rev "1")
+		(company "Teapot Laboratories")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -16406,21 +16412,8 @@
 		(layer "User.2")
 		(uuid "f410e9bb-6246-4c91-8075-12c601e87bfe")
 	)
-	(gr_text "08/24"
-		(at 177.437472 87.487001 -0)
-		(layer "B.SilkS")
-		(uuid "146ef931-8917-424e-898d-8559a036fb0f")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.16)
-				(bold yes)
-			)
-			(justify left mirror)
-		)
-	)
-	(gr_text "REV.A"
-		(at 179.723472 87.487001 -0)
+	(gr_text "Rev. 1"
+		(at 179.723472 87.487001 0)
 		(layer "B.SilkS" knockout)
 		(uuid "2822be32-b2c1-4d3a-9248-c10e9416b95e")
 		(effects
@@ -16664,6 +16657,30 @@
 			)
 		)
 	)
+	(gr_text "PCB3D_TL_bwlr1f_programmer"
+		(at 143.723472 68.653001 0)
+		(layer "F.Fab")
+		(uuid "7a78025e-f502-4877-860a-d0c042c30c2b")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PCB3D_BR_bwlr1f_programmer"
+		(at 205.123472 94.853001 0)
+		(layer "F.Fab")
+		(uuid "df156af8-1de6-46f2-bf0c-2b715ce16db9")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Dimension at User.2"
 		(at 143.909472 97.266001 0)
 		(layer "User.2")
@@ -16684,7 +16701,7 @@
 			(xy 146.685 71.517) (xy 148.585 71.517)
 		)
 		(height -5.619999)
-		(gr_text "1,9000 mm"
+		(gr_text "1.9000 mm"
 			(at 153.053472 65.897001 0)
 			(layer "User.2")
 			(uuid "0cd69e7a-53e5-48e7-9b67-78bbb3a88d60")
@@ -16717,7 +16734,7 @@
 			(xy 203.123472 94.853001) (xy 203.123472 68.723)
 		)
 		(height 12.414)
-		(gr_text "26,1300 mm"
+		(gr_text "26.1300 mm"
 			(at 214.387472 81.788 90)
 			(layer "User.2")
 			(uuid "69b892fd-e681-439f-b567-d31968352e6a")
@@ -16750,7 +16767,7 @@
 			(xy 205.123472 70.723) (xy 143.891 70.723)
 		)
 		(height 7.873998)
-		(gr_text "61,2325 mm"
+		(gr_text "61.2325 mm"
 			(at 174.507236 61.699002 0)
 			(layer "User.2")
 			(uuid "78afc44d-0e0f-432f-884c-8442e706aaa1")
@@ -16783,7 +16800,7 @@
 			(xy 202.329472 92.059001) (xy 202.329472 94.853001)
 		)
 		(height -7.366)
-		(gr_text "2,7940 mm"
+		(gr_text "2.7940 mm"
 			(at 211.219472 93.583001 90)
 			(layer "User.2")
 			(uuid "a84a3e1a-f982-456a-84cf-0f8b8c86bd14")
@@ -16816,7 +16833,7 @@
 			(xy 202.329472 92.059001) (xy 205.123472 92.059001)
 		)
 		(height 8.382)
-		(gr_text "2,7940 mm"
+		(gr_text "2.7940 mm"
 			(at 203.853472 102.219001 0)
 			(layer "User.2")
 			(uuid "c913c33c-74d4-46e6-b9e7-5cada0c43aab")
@@ -16849,7 +16866,7 @@
 			(xy 143.891 94.853001) (xy 146.685 92.059001)
 		)
 		(height -4.541663)
-		(gr_text "3,9513 mm"
+		(gr_text "3.9513 mm"
 			(at 141.263386 89.431387 45)
 			(layer "User.2")
 			(uuid "f97214b9-f36b-40d8-9afb-9576a47db1d9")
